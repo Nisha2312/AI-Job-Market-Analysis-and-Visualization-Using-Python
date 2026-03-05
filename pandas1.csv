@@ -1,0 +1,1000 @@
+job_id,job_role,industry,country,year,Experience Level,ai_adoption_level,Salary,education_requirement_level,Industry
+0,Data Analyst,Technology,Canada,2021,Senior Level,86.62,99454.42,2,Healthcare
+1,Accountant,Finance,Brazil,2020,Mid Level,18.34,139516.59,5,Marketing
+2,Teacher,Technology,USA,2020,Mid Level,36.64,58369.41,2,Healthcare
+3,Customer Support Rep,Technology,Brazil,2021,Senior Level,17.05,86715.7,5,Software
+4,Teacher,Manufacturing,Japan,2024,Entry Level,44.02,119379.11,3,Healthcare
+5,Software Engineer,Healthcare,Singapore,2022,Mid Level,52.01,150561.57,3,Finance
+6,Accountant,Manufacturing,Australia,2020,Entry Level,19.6,132100.25,1,Healthcare
+7,Teacher,Finance,Australia,2026,Entry Level,54.27,59680.04,3,Software
+8,Marketing Specialist,Retail,USA,2025,Senior Level,81.55,138379.12,4,Finance
+9,Financial Analyst,Finance,Singapore,2020,Senior Level,62.33,35622.03,5,Manufacturing
+10,HR Manager,Education,Germany,2025,Senior Level,47.22,74630.21,1,Finance
+11,Software Engineer,Manufacturing,Canada,2020,Senior Level,42.75,97004.49,2,Finance
+12,Data Analyst,Transportation,Canada,2023,Entry Level,24.93,107345.3,3,Marketing
+13,Accountant,Education,Australia,2021,Entry Level,80.81,36065.26,3,Retail
+14,Data Analyst,Healthcare,Brazil,2025,Mid Level,89.61,52896.98,2,Manufacturing
+15,Accountant,Energy,Singapore,2022,Entry Level,51.07,83659,5,Manufacturing
+16,Customer Support Rep,Education,USA,2021,Entry Level,70.3,69376.53,1,Finance
+17,Mechanical Engineer,Transportation,Canada,2020,Senior Level,3.69,48660.21,2,Software
+18,Marketing Specialist,Education,Germany,2025,Senior Level,48.95,62217.28,4,Finance
+19,Teacher,Energy,UK,2022,Entry Level,63.23,130997.04,2,Finance
+20,Customer Support Rep,Retail,Singapore,2024,Entry Level,59.09,117335.92,4,Education
+21,Mechanical Engineer,Manufacturing,UK,2024,Entry Level,38.67,51105.29,4,Marketing
+22,Data Analyst,Technology,India,2021,Mid Level,55.52,47165.13,2,Manufacturing
+23,Teacher,Finance,Singapore,2023,Mid Level,34.92,141243.59,5,Retail
+24,Truck Driver,Retail,Brazil,2026,Senior Level,89.86,115180.98,1,Software
+25,Data Analyst,Retail,Australia,2020,Mid Level,22.43,130072.87,3,Education
+26,Teacher,Healthcare,Japan,2020,Entry Level,56.83,131098.92,3,Finance
+27,Financial Analyst,Healthcare,Brazil,2020,Mid Level,63.11,58821.71,3,Marketing
+28,Financial Analyst,Manufacturing,UK,2022,Entry Level,2.43,94676.95,2,Marketing
+29,Financial Analyst,Technology,Australia,2023,Entry Level,92.83,141243.03,1,Manufacturing
+30,Data Analyst,Education,Canada,2021,Entry Level,31.69,121152.88,1,Retail
+31,Customer Support Rep,Finance,India,2025,Mid Level,99.01,103489.71,4,Manufacturing
+32,Data Analyst,Healthcare,UK,2025,Senior Level,29.36,131768.87,4,Finance
+33,Financial Analyst,Healthcare,Canada,2024,Senior Level,65,146778.36,5,Retail
+34,Teacher,Manufacturing,Brazil,2026,Senior Level,3.59,65106.41,2,Marketing
+35,HR Manager,Transportation,Australia,2023,Entry Level,52.22,96138.2,5,Retail
+36,Truck Driver,Finance,Germany,2021,Senior Level,63.74,40425.08,1,Education
+37,Mechanical Engineer,Technology,Brazil,2021,Mid Level,7.85,64204.68,5,Software
+38,Customer Support Rep,Technology,India,2025,Senior Level,25.02,99891.51,1,Manufacturing
+39,Customer Support Rep,Finance,USA,2026,Mid Level,24.77,77087.3,3,Finance
+40,Data Analyst,Manufacturing,Canada,2025,Senior Level,9.78,45878.36,4,Marketing
+41,Customer Support Rep,Healthcare,Japan,2021,Mid Level,4.53,95458.12,4,Retail
+42,Teacher,Manufacturing,India,2020,Senior Level,64.24,119746.43,4,Manufacturing
+43,Mechanical Engineer,Transportation,Singapore,2023,Senior Level,54.56,114767.49,1,Retail
+44,Data Analyst,Technology,Singapore,2025,Mid Level,31.9,142537.81,3,Software
+45,Data Analyst,Manufacturing,Germany,2021,Mid Level,87.75,66101.14,5,Software
+46,Truck Driver,Healthcare,Singapore,2021,Senior Level,41.26,55125.82,3,Marketing
+47,Truck Driver,Manufacturing,India,2023,Mid Level,75.45,138606.53,5,Manufacturing
+48,Data Analyst,Technology,Brazil,2026,Mid Level,1.08,137984.02,1,Manufacturing
+49,Data Analyst,Manufacturing,UK,2023,Senior Level,44.84,145404.25,4,Healthcare
+50,Truck Driver,Manufacturing,Singapore,2020,Entry Level,49.44,127792.17,2,Manufacturing
+51,Teacher,Technology,Singapore,2022,Mid Level,76.15,125254.44,4,Manufacturing
+52,HR Manager,Transportation,Brazil,2025,Mid Level,98.66,108740.98,4,Retail
+53,Accountant,Manufacturing,Canada,2021,Entry Level,55.84,133347.95,1,Finance
+54,Marketing Specialist,Technology,Australia,2020,Senior Level,11.88,88950.03,1,Healthcare
+55,Marketing Specialist,Energy,Brazil,2026,Entry Level,86.86,98916.6,5,Finance
+56,Accountant,Technology,Brazil,2020,Mid Level,55.39,149665.85,2,Education
+57,Data Analyst,Finance,Germany,2023,Senior Level,90.12,137926.28,1,Healthcare
+58,Marketing Specialist,Manufacturing,USA,2024,Mid Level,18.81,166795.09,1,Manufacturing
+59,Teacher,Education,Canada,2021,Mid Level,81.38,40672.22,3,Education
+60,Customer Support Rep,Retail,Singapore,2021,Entry Level,86.61,111712.48,3,Retail
+61,Truck Driver,Education,India,2020,Senior Level,84.21,105463.95,4,Healthcare
+62,Marketing Specialist,Finance,India,2024,Mid Level,94.48,62841.78,2,Finance
+63,Financial Analyst,Retail,UK,2022,Entry Level,67.17,46046.46,1,Software
+64,Customer Support Rep,Education,Canada,2021,Mid Level,85.22,127742.78,4,Healthcare
+65,Financial Analyst,Retail,Brazil,2020,Mid Level,21.3,83478.85,5,Finance
+66,HR Manager,Finance,UK,2022,Entry Level,34.83,88864.05,1,Marketing
+67,Data Analyst,Healthcare,Canada,2022,Senior Level,98,86824.44,5,Healthcare
+68,Customer Support Rep,Education,Germany,2025,Entry Level,34.57,60973.71,3,Education
+69,Financial Analyst,Energy,Canada,2026,Mid Level,8.87,47991.12,1,Retail
+70,Data Analyst,Transportation,Canada,2020,Entry Level,79.94,88194.84,1,Healthcare
+71,Mechanical Engineer,Healthcare,Canada,2021,Senior Level,74.83,138926.43,4,Manufacturing
+72,Financial Analyst,Transportation,Brazil,2020,Entry Level,74.75,74787.45,1,Marketing
+73,Data Analyst,Healthcare,Brazil,2020,Entry Level,44.74,179736.28,3,Finance
+74,Marketing Specialist,Healthcare,Singapore,2021,Entry Level,89.05,70407.08,1,Education
+75,HR Manager,Education,USA,2022,Mid Level,74.54,90507.93,2,Finance
+76,Customer Support Rep,Finance,Australia,2026,Senior Level,98.65,80383.75,5,Healthcare
+77,Teacher,Healthcare,Germany,2026,Senior Level,28.51,45197.69,2,Finance
+78,Accountant,Transportation,USA,2021,Mid Level,39.79,95455.03,3,Retail
+79,Teacher,Manufacturing,Canada,2021,Mid Level,55.68,64001.35,1,Marketing
+80,Teacher,Technology,Japan,2021,Mid Level,24.24,48442.32,2,Education
+81,Truck Driver,Education,Canada,2026,Entry Level,5.18,99089.45,2,Marketing
+82,Customer Support Rep,Technology,Germany,2023,Senior Level,68.15,163768.38,3,Healthcare
+83,HR Manager,Finance,Canada,2022,Entry Level,96.5,84004.07,5,Manufacturing
+84,Teacher,Education,USA,2020,Senior Level,84.18,52196.05,3,Marketing
+85,Accountant,Retail,USA,2020,Senior Level,52.31,51596.72,5,Manufacturing
+86,Teacher,Education,Australia,2023,Entry Level,30.14,101905.58,5,Education
+87,Financial Analyst,Finance,Singapore,2024,Mid Level,62.42,149390.51,2,Retail
+88,HR Manager,Technology,Singapore,2020,Senior Level,53.35,72564.54,5,Retail
+89,Financial Analyst,Manufacturing,Australia,2023,Mid Level,56.99,73003.66,1,Software
+90,Mechanical Engineer,Education,India,2025,Entry Level,14.99,125081.61,3,Marketing
+91,Financial Analyst,Retail,Singapore,2022,Mid Level,34.57,111358.89,4,Retail
+92,HR Manager,Healthcare,Germany,2023,Mid Level,58.62,83212.91,4,Retail
+93,Accountant,Retail,Singapore,2024,Mid Level,92.25,136127.92,1,Software
+94,HR Manager,Retail,Germany,2023,Senior Level,92.56,119184.69,5,Retail
+95,Marketing Specialist,Education,Japan,2023,Senior Level,39.9,131395.92,4,Software
+96,Customer Support Rep,Energy,UK,2025,Entry Level,91.99,27463.27,1,Manufacturing
+97,HR Manager,Education,India,2026,Mid Level,17.64,82078.68,2,Finance
+98,HR Manager,Manufacturing,Germany,2021,Senior Level,66.35,87074.74,1,Healthcare
+99,Software Engineer,Manufacturing,Japan,2024,Mid Level,75,100278.7,1,Manufacturing
+100,Truck Driver,Transportation,Germany,2025,Senior Level,6.57,52709.32,4,Marketing
+101,Truck Driver,Transportation,Germany,2021,Mid Level,18.19,93220.52,1,Finance
+102,Data Analyst,Transportation,Germany,2021,Entry Level,15.62,55549.44,5,Manufacturing
+103,Truck Driver,Technology,Brazil,2021,Senior Level,10.41,60723.97,1,Education
+104,Truck Driver,Healthcare,Japan,2025,Mid Level,85.57,57174.06,5,Retail
+105,Financial Analyst,Education,Japan,2024,Mid Level,8.55,57836.34,5,Finance
+106,Teacher,Energy,UK,2025,Senior Level,34.18,109202.02,4,Software
+107,Truck Driver,Retail,Germany,2026,Mid Level,43.61,54207.51,3,Healthcare
+108,Financial Analyst,Energy,Germany,2022,Entry Level,79.99,46637.4,4,Marketing
+109,Data Analyst,Retail,Germany,2022,Mid Level,83.49,82188.87,3,Education
+110,Mechanical Engineer,Finance,UK,2021,Mid Level,55.42,63904.38,2,Software
+111,Teacher,Healthcare,Germany,2020,Entry Level,66.5,32121.37,4,Retail
+112,Teacher,Education,Brazil,2023,Entry Level,73.8,71229.46,4,Marketing
+113,Software Engineer,Manufacturing,Singapore,2023,Entry Level,29.71,69632.85,5,Manufacturing
+114,Software Engineer,Transportation,Japan,2020,Mid Level,26.23,130194.87,3,Education
+115,HR Manager,Transportation,Singapore,2024,Mid Level,7.51,113300.19,5,Finance
+116,Marketing Specialist,Manufacturing,Japan,2021,Mid Level,69.47,87995.54,3,Manufacturing
+117,Teacher,Energy,USA,2023,Entry Level,54.19,40684.75,3,Software
+118,Teacher,Healthcare,Japan,2021,Mid Level,48.94,118148.26,5,Marketing
+119,Financial Analyst,Technology,Singapore,2024,Mid Level,56.79,36223.33,5,Education
+120,Software Engineer,Finance,Singapore,2021,Mid Level,84.45,65422.08,4,Healthcare
+121,Accountant,Technology,Canada,2023,Senior Level,69.63,97139.97,3,Marketing
+122,Customer Support Rep,Energy,Australia,2022,Entry Level,62.59,77650.39,4,Manufacturing
+123,HR Manager,Transportation,Canada,2026,Senior Level,79.88,33199.04,1,Finance
+124,Truck Driver,Technology,Brazil,2020,Senior Level,98.41,96216.38,3,Finance
+125,Customer Support Rep,Finance,USA,2026,Mid Level,28.72,113530.25,1,Healthcare
+126,Customer Support Rep,Manufacturing,USA,2024,Mid Level,67.96,32033.38,2,Healthcare
+127,Customer Support Rep,Healthcare,Japan,2025,Senior Level,46.74,44738.4,1,Manufacturing
+128,Marketing Specialist,Manufacturing,Japan,2025,Entry Level,51.27,58762.71,3,Education
+129,Mechanical Engineer,Healthcare,India,2026,Entry Level,96.91,49034.43,2,Retail
+130,HR Manager,Finance,USA,2022,Mid Level,15.39,58093.17,5,Retail
+131,Teacher,Transportation,Germany,2020,Mid Level,87.75,109051.09,5,Education
+132,Customer Support Rep,Finance,Canada,2026,Entry Level,55.09,148814.03,5,Retail
+133,Data Analyst,Technology,Australia,2024,Entry Level,22.02,60967.81,4,Education
+134,Mechanical Engineer,Finance,Brazil,2025,Mid Level,34.78,112012.8,3,Healthcare
+135,Software Engineer,Transportation,Japan,2020,Senior Level,86.73,143435.17,4,Marketing
+136,Mechanical Engineer,Energy,UK,2023,Senior Level,88.09,127044.12,2,Education
+137,Financial Analyst,Retail,Brazil,2026,Senior Level,81.8,50949.7,4,Healthcare
+138,Truck Driver,Transportation,Canada,2022,Mid Level,25.98,65676.11,2,Software
+139,Data Analyst,Retail,Japan,2021,Entry Level,34.19,43905.98,4,Education
+140,Marketing Specialist,Transportation,Australia,2020,Mid Level,70.82,136107.19,4,Finance
+141,Mechanical Engineer,Healthcare,Japan,2021,Entry Level,2.46,98668.58,3,Software
+142,HR Manager,Education,Canada,2024,Mid Level,99.71,115650.53,3,Retail
+143,Financial Analyst,Technology,Brazil,2021,Senior Level,68.05,112573.22,1,Healthcare
+144,Customer Support Rep,Transportation,Japan,2024,Entry Level,63.85,51256.17,2,Education
+145,Truck Driver,Energy,Japan,2026,Entry Level,3.11,77211.42,1,Education
+146,Data Analyst,Retail,Germany,2023,Entry Level,84.48,89759.54,2,Retail
+147,HR Manager,Education,Japan,2024,Entry Level,48.15,34569.41,5,Healthcare
+148,Mechanical Engineer,Transportation,Brazil,2022,Senior Level,58.2,81308.87,3,Marketing
+149,Truck Driver,Retail,Canada,2022,Senior Level,29.17,80798.71,2,Manufacturing
+150,Data Analyst,Manufacturing,Australia,2020,Mid Level,98.67,31393.61,5,Software
+151,Accountant,Manufacturing,Germany,2025,Senior Level,51.77,111770.27,4,Healthcare
+152,HR Manager,Retail,India,2026,Entry Level,68.95,35480.09,2,Manufacturing
+153,HR Manager,Manufacturing,Australia,2021,Entry Level,93.62,48502.14,3,Finance
+154,Software Engineer,Healthcare,Canada,2020,Mid Level,81.48,146558.1,1,Software
+155,Financial Analyst,Retail,UK,2025,Senior Level,73.16,154654.79,4,Healthcare
+156,Data Analyst,Technology,Canada,2023,Entry Level,33.69,47571,4,Education
+157,Truck Driver,Education,UK,2020,Entry Level,99.63,105293.97,3,Finance
+158,Truck Driver,Finance,India,2023,Senior Level,72.72,108754.36,4,Retail
+159,Data Analyst,Technology,UK,2021,Mid Level,72.53,76197.37,5,Marketing
+160,HR Manager,Finance,Germany,2020,Entry Level,21.07,85864.66,5,Manufacturing
+161,Teacher,Manufacturing,Brazil,2023,Mid Level,23.75,48050.19,4,Software
+162,Truck Driver,Retail,Singapore,2022,Entry Level,51.48,93915.37,5,Retail
+163,Marketing Specialist,Technology,India,2026,Mid Level,13.09,66969.83,2,Manufacturing
+164,Customer Support Rep,Retail,India,2021,Entry Level,82.89,39117.83,2,Healthcare
+165,Accountant,Finance,UK,2020,Entry Level,73.64,110810.28,4,Healthcare
+166,Truck Driver,Energy,Canada,2020,Mid Level,11.19,139732.09,2,Software
+167,HR Manager,Retail,Japan,2020,Mid Level,50.72,152824.94,2,Manufacturing
+168,HR Manager,Manufacturing,Singapore,2020,Entry Level,51.56,159175.61,5,Manufacturing
+169,Customer Support Rep,Healthcare,Canada,2026,Senior Level,67.34,37319.97,2,Healthcare
+170,Data Analyst,Technology,UK,2026,Entry Level,83.81,81662.59,3,Finance
+171,Marketing Specialist,Retail,Japan,2020,Senior Level,93.09,106235.95,4,Manufacturing
+172,HR Manager,Transportation,Canada,2024,Senior Level,65.78,126881.48,5,Manufacturing
+173,Truck Driver,Energy,India,2024,Senior Level,73.84,81362.18,1,Education
+174,Teacher,Education,Canada,2020,Senior Level,43.56,116689.25,1,Marketing
+175,Customer Support Rep,Technology,Canada,2024,Senior Level,69.55,27326.46,1,Education
+176,Accountant,Energy,Brazil,2025,Entry Level,46.35,87070.88,4,Software
+177,HR Manager,Healthcare,Singapore,2025,Senior Level,53.36,75342.81,4,Education
+178,Data Analyst,Energy,Australia,2023,Senior Level,92.7,124991.6,3,Healthcare
+179,Mechanical Engineer,Finance,UK,2022,Entry Level,30.73,35031.22,4,Finance
+180,Truck Driver,Retail,Singapore,2026,Mid Level,12.19,93023.13,5,Healthcare
+181,Software Engineer,Energy,India,2022,Mid Level,25.66,87425.71,3,Marketing
+182,Mechanical Engineer,Finance,Singapore,2026,Mid Level,60.16,97229.68,5,Finance
+183,Software Engineer,Energy,Singapore,2020,Senior Level,90,47668.58,2,Education
+184,Financial Analyst,Education,Japan,2025,Senior Level,9.55,61119.23,4,Marketing
+185,Software Engineer,Manufacturing,Canada,2024,Entry Level,9.57,53340.84,2,Software
+186,HR Manager,Energy,Japan,2020,Entry Level,49.68,90273.86,1,Healthcare
+187,Marketing Specialist,Manufacturing,UK,2022,Mid Level,99.13,91691.27,5,Manufacturing
+188,Software Engineer,Transportation,India,2021,Entry Level,89.42,95637.66,1,Healthcare
+189,Truck Driver,Finance,UK,2023,Senior Level,80.04,72847,3,Healthcare
+190,Financial Analyst,Retail,Singapore,2026,Mid Level,66.95,86551.95,4,Finance
+191,Truck Driver,Manufacturing,Japan,2024,Mid Level,95.76,109381.62,2,Finance
+192,Teacher,Manufacturing,Brazil,2025,Entry Level,34.76,93250.47,2,Finance
+193,Data Analyst,Retail,Singapore,2022,Mid Level,92.7,51804.48,5,Retail
+194,HR Manager,Technology,Canada,2025,Senior Level,82.61,106843.54,3,Finance
+195,Marketing Specialist,Energy,UK,2023,Senior Level,93.7,61158.37,5,Marketing
+196,Truck Driver,Education,Australia,2024,Entry Level,49.7,86915.32,5,Healthcare
+197,Teacher,Energy,Australia,2026,Senior Level,87.8,142830.71,2,Finance
+198,Customer Support Rep,Transportation,Germany,2026,Mid Level,69.5,65396.94,4,Healthcare
+199,Software Engineer,Education,Japan,2025,Mid Level,76.48,128375.58,4,Finance
+200,Teacher,Healthcare,Japan,2020,Mid Level,13.52,44665.74,2,Healthcare
+201,Financial Analyst,Education,India,2026,Entry Level,10.57,82427.79,4,Finance
+202,Data Analyst,Energy,USA,2025,Senior Level,99.49,105718.43,2,Finance
+203,Teacher,Healthcare,India,2023,Mid Level,6.23,55100.84,3,Education
+204,Mechanical Engineer,Transportation,India,2026,Entry Level,42.61,113685.2,3,Finance
+205,Financial Analyst,Transportation,Australia,2025,Mid Level,73.36,47111.6,4,Education
+206,Financial Analyst,Technology,India,2021,Entry Level,21.52,82967.39,3,Software
+207,Customer Support Rep,Finance,Singapore,2020,Senior Level,54.8,125991.27,1,Manufacturing
+208,Truck Driver,Healthcare,Canada,2020,Mid Level,47.6,84661.95,1,Marketing
+209,Mechanical Engineer,Technology,Canada,2022,Entry Level,43.76,115891.97,3,Manufacturing
+210,Teacher,Healthcare,Germany,2024,Entry Level,89.51,168027.91,4,Finance
+211,Marketing Specialist,Healthcare,UK,2021,Senior Level,68.02,96450.32,1,Finance
+212,Marketing Specialist,Transportation,Germany,2023,Entry Level,77.47,33443.46,5,Manufacturing
+213,Accountant,Manufacturing,Japan,2025,Senior Level,2.09,46764.61,3,Finance
+214,Truck Driver,Retail,USA,2026,Mid Level,12.14,104917.07,4,Software
+215,HR Manager,Healthcare,India,2023,Senior Level,60.19,87610.59,3,Marketing
+216,Marketing Specialist,Retail,Singapore,2025,Mid Level,22.46,104807.57,3,Marketing
+217,Truck Driver,Retail,Germany,2023,Entry Level,64.58,101261.61,4,Retail
+218,Data Analyst,Manufacturing,Singapore,2024,Entry Level,46.05,129382.7,3,Education
+219,Marketing Specialist,Retail,Canada,2020,Mid Level,93.74,110707.84,4,Education
+220,HR Manager,Technology,USA,2024,Mid Level,84.07,110926.56,4,Software
+221,HR Manager,Manufacturing,Australia,2021,Senior Level,87.33,96149.59,2,Retail
+222,Marketing Specialist,Retail,UK,2025,Mid Level,20.4,83602.11,1,Finance
+223,Software Engineer,Retail,Japan,2020,Mid Level,0.52,58852.82,5,Finance
+224,Mechanical Engineer,Healthcare,India,2022,Entry Level,14.89,53640.95,3,Software
+225,Teacher,Healthcare,Germany,2021,Senior Level,59.3,87010.72,5,Software
+226,Mechanical Engineer,Retail,UK,2022,Mid Level,9.3,25750.3,4,Healthcare
+227,HR Manager,Education,India,2023,Mid Level,60.35,43608.9,1,Education
+228,Accountant,Manufacturing,Singapore,2026,Mid Level,33.42,118450.68,5,Healthcare
+229,Mechanical Engineer,Finance,Singapore,2020,Entry Level,43.4,81560.49,3,Finance
+230,Financial Analyst,Finance,Japan,2022,Senior Level,78.57,106165.54,3,Manufacturing
+231,Marketing Specialist,Transportation,Australia,2020,Mid Level,36.22,90394.11,2,Finance
+232,Truck Driver,Technology,Brazil,2022,Senior Level,94.07,131632.4,5,Healthcare
+233,Customer Support Rep,Finance,Japan,2025,Senior Level,48.3,137761.83,3,Finance
+234,Teacher,Finance,UK,2020,Mid Level,15.89,104456.12,1,Healthcare
+235,HR Manager,Energy,India,2020,Senior Level,24.7,107744.6,2,Manufacturing
+236,Financial Analyst,Healthcare,Singapore,2023,Entry Level,48.76,139208.4,3,Marketing
+237,Financial Analyst,Transportation,UK,2023,Mid Level,89.98,35385.95,1,Finance
+238,Truck Driver,Transportation,Canada,2020,Entry Level,98.13,82029.08,3,Education
+239,Customer Support Rep,Energy,Japan,2021,Senior Level,34.95,102403.16,3,Marketing
+240,Data Analyst,Education,Brazil,2025,Senior Level,11.48,61321.74,3,Healthcare
+241,Software Engineer,Transportation,Canada,2021,Entry Level,48.47,105427.87,1,Software
+242,Truck Driver,Finance,Germany,2025,Senior Level,54.54,84223.63,5,Manufacturing
+243,Software Engineer,Technology,Australia,2021,Mid Level,33.02,79611.06,2,Software
+244,Marketing Specialist,Manufacturing,India,2026,Mid Level,77.2,131390.25,5,Education
+245,Customer Support Rep,Manufacturing,Germany,2022,Senior Level,65.68,136595.83,2,Finance
+246,Marketing Specialist,Technology,Canada,2026,Mid Level,79.29,147387.97,2,Marketing
+247,Accountant,Retail,UK,2020,Mid Level,69.59,78042.45,1,Marketing
+248,Accountant,Technology,Australia,2026,Mid Level,89.4,134092.61,2,Retail
+249,Marketing Specialist,Education,USA,2021,Mid Level,41.78,104087.25,3,Finance
+250,Software Engineer,Healthcare,Singapore,2024,Mid Level,1.26,48980.46,1,Finance
+251,Data Analyst,Energy,Japan,2026,Entry Level,85.82,139490.75,3,Retail
+252,Financial Analyst,Finance,Japan,2024,Entry Level,35.78,76641.78,2,Finance
+253,Marketing Specialist,Technology,Brazil,2022,Mid Level,23.99,55126.06,4,Finance
+254,Software Engineer,Technology,Japan,2026,Mid Level,84.14,134447.92,4,Manufacturing
+255,Teacher,Finance,Japan,2025,Entry Level,6.96,39828.2,4,Software
+256,Data Analyst,Finance,Australia,2024,Entry Level,51.27,141810.57,2,Healthcare
+257,Data Analyst,Healthcare,Canada,2024,Mid Level,76.61,69889.7,5,Manufacturing
+258,Financial Analyst,Education,Singapore,2024,Mid Level,44.71,148202.99,5,Software
+259,HR Manager,Energy,Brazil,2024,Senior Level,91.81,71598.41,4,Retail
+260,Data Analyst,Finance,Brazil,2025,Entry Level,96.28,149583.49,2,Healthcare
+261,Teacher,Energy,Germany,2023,Entry Level,24.19,66125.2,3,Manufacturing
+262,Truck Driver,Transportation,Singapore,2025,Senior Level,4.81,91076.11,1,Software
+263,Mechanical Engineer,Transportation,Australia,2025,Senior Level,3.47,100129.7,3,Retail
+264,Mechanical Engineer,Healthcare,Japan,2020,Senior Level,90.96,83988.65,1,Finance
+265,Data Analyst,Finance,Singapore,2020,Senior Level,43.46,71955.38,3,Software
+266,Accountant,Technology,Brazil,2024,Mid Level,70.26,96620.66,3,Manufacturing
+267,Data Analyst,Transportation,Australia,2026,Entry Level,60.07,92671.21,4,Healthcare
+268,Software Engineer,Retail,Canada,2022,Entry Level,4.56,35652.47,1,Finance
+269,Marketing Specialist,Manufacturing,UK,2025,Mid Level,28.07,59950.94,4,Marketing
+270,Customer Support Rep,Finance,Australia,2026,Senior Level,57.2,29963.62,5,Manufacturing
+271,Mechanical Engineer,Finance,Canada,2024,Entry Level,34.52,79297.1,2,Retail
+272,Teacher,Technology,Canada,2020,Senior Level,41.1,106176.01,2,Retail
+273,HR Manager,Retail,Australia,2022,Senior Level,5.95,63882.19,1,Manufacturing
+274,Accountant,Healthcare,Singapore,2020,Entry Level,41.89,59693.81,2,Software
+275,Software Engineer,Finance,Brazil,2021,Senior Level,36.19,73796.53,4,Education
+276,Teacher,Energy,Australia,2021,Senior Level,12.06,152899.69,3,Finance
+277,HR Manager,Education,India,2020,Entry Level,48.6,46900.09,2,Marketing
+278,Accountant,Technology,India,2022,Entry Level,84.56,109319.15,4,Marketing
+279,Teacher,Energy,Japan,2023,Mid Level,79.84,69353.99,3,Software
+280,Customer Support Rep,Finance,Australia,2023,Senior Level,60.11,88202.48,1,Finance
+281,HR Manager,Energy,Brazil,2025,Mid Level,34.59,44492.13,3,Software
+282,Software Engineer,Manufacturing,Singapore,2024,Senior Level,31.12,100445.22,1,Finance
+283,Software Engineer,Manufacturing,Canada,2021,Mid Level,14.06,55998.85,2,Healthcare
+284,HR Manager,Retail,Australia,2020,Entry Level,38.8,139324.73,1,Finance
+285,Truck Driver,Transportation,UK,2021,Senior Level,95.59,89791.85,4,Software
+286,Financial Analyst,Manufacturing,Brazil,2024,Entry Level,34.04,127818.49,3,Healthcare
+287,Data Analyst,Transportation,USA,2023,Entry Level,30.23,101066.36,1,Software
+288,Truck Driver,Finance,Australia,2024,Senior Level,13.92,57022.17,4,Education
+289,Marketing Specialist,Transportation,Singapore,2022,Mid Level,20.13,86824.44,1,Finance
+290,Teacher,Technology,Australia,2021,Senior Level,87,97577.61,5,Marketing
+291,Truck Driver,Education,India,2023,Mid Level,14.88,133093.9,1,Marketing
+292,Customer Support Rep,Transportation,Singapore,2024,Entry Level,20.32,109933.43,1,Finance
+293,Teacher,Retail,Australia,2021,Mid Level,40.76,98486.31,3,Healthcare
+294,Accountant,Finance,Brazil,2025,Entry Level,43.91,141869.66,1,Finance
+295,Financial Analyst,Manufacturing,Australia,2022,Entry Level,92.64,144089.08,2,Education
+296,Customer Support Rep,Finance,UK,2022,Entry Level,35.87,107703.43,2,Finance
+297,Accountant,Healthcare,India,2021,Senior Level,1.43,158703.95,4,Software
+298,Truck Driver,Energy,Australia,2026,Senior Level,76.61,50915.33,3,Education
+299,Accountant,Energy,India,2023,Senior Level,6.6,87071.94,4,Education
+300,HR Manager,Retail,USA,2022,Mid Level,50.06,116507.05,5,Software
+301,Data Analyst,Retail,Japan,2023,Senior Level,28.1,32519.21,1,Software
+302,Software Engineer,Education,Canada,2020,Senior Level,64.05,135063.62,1,Manufacturing
+303,Marketing Specialist,Transportation,Japan,2024,Mid Level,62.48,75206.45,5,Healthcare
+304,Software Engineer,Energy,Germany,2022,Mid Level,52.02,121184.55,5,Marketing
+305,Truck Driver,Healthcare,USA,2023,Entry Level,5.43,83378.58,1,Marketing
+306,Mechanical Engineer,Finance,Brazil,2025,Mid Level,0.38,88340.65,2,Education
+307,Software Engineer,Manufacturing,Japan,2023,Entry Level,31.33,36543.87,5,Marketing
+308,Financial Analyst,Healthcare,Australia,2022,Senior Level,68.7,144628.18,3,Education
+309,Teacher,Transportation,Australia,2025,Senior Level,76.1,125513.07,5,Marketing
+310,Software Engineer,Education,India,2022,Senior Level,36.01,45269.67,1,Education
+311,Financial Analyst,Transportation,Canada,2022,Mid Level,5.24,80248.58,5,Finance
+312,Accountant,Education,India,2024,Entry Level,88.02,140257.49,2,Retail
+313,Mechanical Engineer,Retail,Singapore,2021,Mid Level,31.56,67899.26,5,Marketing
+314,Data Analyst,Retail,Brazil,2023,Senior Level,5.81,52134.39,3,Retail
+315,Accountant,Finance,Singapore,2024,Entry Level,40.43,127279.94,3,Software
+316,Software Engineer,Education,Canada,2021,Entry Level,31.19,85883.93,2,Finance
+317,Mechanical Engineer,Energy,Germany,2021,Senior Level,26.56,157020.9,2,Software
+318,Accountant,Finance,Canada,2026,Mid Level,29.98,80736.24,1,Manufacturing
+319,Financial Analyst,Technology,Australia,2026,Mid Level,45.8,33400.5,5,Education
+320,Accountant,Transportation,UK,2021,Senior Level,47.38,56795.68,2,Marketing
+321,Marketing Specialist,Healthcare,Japan,2020,Senior Level,7.56,124482.2,4,Manufacturing
+322,Mechanical Engineer,Manufacturing,Japan,2024,Senior Level,14.7,52906.8,3,Retail
+323,Truck Driver,Manufacturing,Brazil,2021,Entry Level,29.05,101903.58,3,Finance
+324,Truck Driver,Manufacturing,Australia,2025,Mid Level,95.79,34335.58,5,Software
+325,Truck Driver,Energy,Canada,2026,Senior Level,45.97,109434.47,4,Retail
+326,Financial Analyst,Transportation,UK,2026,Entry Level,84.36,42785.86,2,Retail
+327,Marketing Specialist,Healthcare,Canada,2020,Entry Level,59.36,49602.37,4,Retail
+328,Mechanical Engineer,Finance,Brazil,2026,Senior Level,16.17,55062.15,1,Software
+329,HR Manager,Finance,UK,2022,Mid Level,77.16,96652.02,4,Software
+330,Financial Analyst,Healthcare,Singapore,2020,Mid Level,84.8,63735.11,2,Finance
+331,Truck Driver,Education,USA,2023,Mid Level,28.89,40534.52,1,Education
+332,Teacher,Education,Germany,2023,Entry Level,75.43,33091.27,1,Healthcare
+333,Mechanical Engineer,Manufacturing,USA,2022,Entry Level,35.86,67866.7,1,Manufacturing
+334,Mechanical Engineer,Healthcare,UK,2020,Senior Level,3.89,140388.78,3,Software
+335,Truck Driver,Healthcare,Japan,2023,Mid Level,58.01,64574.09,5,Manufacturing
+336,Software Engineer,Finance,USA,2022,Entry Level,47.63,70997.46,2,Software
+337,Accountant,Transportation,India,2026,Senior Level,7.12,56977.95,3,Finance
+338,Customer Support Rep,Retail,India,2020,Mid Level,69.36,82585.34,2,Finance
+339,Teacher,Energy,India,2020,Senior Level,3.76,111076.19,4,Manufacturing
+340,Marketing Specialist,Technology,Brazil,2024,Senior Level,22.61,74583.05,2,Manufacturing
+341,Accountant,Retail,Singapore,2020,Senior Level,84.84,32226.99,5,Healthcare
+342,Mechanical Engineer,Manufacturing,Singapore,2021,Entry Level,90.19,110150.01,1,Finance
+343,Financial Analyst,Education,India,2024,Senior Level,54.45,90604.85,5,Education
+344,Financial Analyst,Technology,Singapore,2026,Entry Level,71.44,106560.66,4,Manufacturing
+345,Software Engineer,Transportation,Australia,2022,Senior Level,69.72,96592.1,1,Manufacturing
+346,Mechanical Engineer,Finance,Australia,2021,Entry Level,80.71,120899.8,1,Education
+347,Marketing Specialist,Education,UK,2020,Senior Level,56.21,153902.32,3,Retail
+348,Financial Analyst,Education,UK,2026,Mid Level,2.52,53011.62,4,Finance
+349,Truck Driver,Healthcare,UK,2020,Mid Level,81.71,124204.5,4,Software
+350,Software Engineer,Retail,Germany,2020,Entry Level,80,96905.14,2,Healthcare
+351,Software Engineer,Education,Canada,2024,Senior Level,87.14,127426.95,4,Finance
+352,Financial Analyst,Energy,Canada,2020,Senior Level,1.22,117708.47,2,Software
+353,HR Manager,Education,USA,2026,Mid Level,33.4,57874.84,3,Healthcare
+354,HR Manager,Finance,Australia,2023,Entry Level,33.25,117404.5,4,Software
+355,Truck Driver,Transportation,Australia,2021,Entry Level,41.83,118965.2,4,Marketing
+356,Truck Driver,Education,Brazil,2022,Mid Level,51.87,65329.6,1,Healthcare
+357,Teacher,Finance,Singapore,2024,Entry Level,34.65,85414.14,2,Healthcare
+358,Financial Analyst,Retail,Australia,2020,Senior Level,96.85,79855.65,1,Software
+359,Mechanical Engineer,Retail,Canada,2023,Entry Level,62.36,136289.26,5,Education
+360,Teacher,Healthcare,Japan,2022,Mid Level,61,157632.16,4,Software
+361,Software Engineer,Education,Singapore,2022,Entry Level,58.76,141317.48,1,Finance
+362,Data Analyst,Transportation,Australia,2024,Entry Level,95.76,26971.21,2,Retail
+363,Software Engineer,Healthcare,Japan,2020,Senior Level,74.84,110434.55,2,Retail
+364,Data Analyst,Manufacturing,Australia,2022,Entry Level,24.2,96497.45,4,Software
+365,Marketing Specialist,Technology,UK,2025,Entry Level,24.76,124692.34,4,Finance
+366,Mechanical Engineer,Education,Japan,2026,Entry Level,83.85,96844.41,1,Manufacturing
+367,Marketing Specialist,Healthcare,Brazil,2022,Senior Level,73.79,99906.81,4,Education
+368,Mechanical Engineer,Retail,Germany,2020,Senior Level,36.84,155566.48,1,Marketing
+369,Accountant,Energy,Brazil,2023,Mid Level,42.76,73207.36,5,Marketing
+370,Data Analyst,Retail,Canada,2025,Mid Level,2.19,35609.99,4,Finance
+371,Customer Support Rep,Retail,Japan,2021,Entry Level,26.02,84546.07,1,Retail
+372,Accountant,Finance,Japan,2021,Senior Level,68.51,56409.48,4,Manufacturing
+373,Data Analyst,Education,Australia,2025,Entry Level,35.38,77687.88,1,Software
+374,Financial Analyst,Retail,Canada,2026,Entry Level,50.56,137902.59,2,Healthcare
+375,Accountant,Education,Brazil,2021,Mid Level,85.88,78479.05,1,Healthcare
+376,Customer Support Rep,Healthcare,Germany,2026,Senior Level,67.36,144440.65,4,Manufacturing
+377,Software Engineer,Education,Brazil,2024,Senior Level,16.14,48410.11,3,Healthcare
+378,Truck Driver,Healthcare,India,2020,Mid Level,22.24,127188.33,3,Marketing
+379,Teacher,Energy,Brazil,2023,Senior Level,95.99,31840.61,4,Education
+380,Marketing Specialist,Finance,UK,2022,Mid Level,17.17,96716.69,1,Manufacturing
+381,Truck Driver,Energy,Brazil,2022,Entry Level,11.72,95046.27,2,Finance
+382,Financial Analyst,Healthcare,UK,2023,Mid Level,50.78,59450.3,5,Healthcare
+383,Software Engineer,Finance,Brazil,2021,Senior Level,68.86,48319.35,3,Software
+384,Accountant,Healthcare,Australia,2025,Entry Level,48.51,97786.96,2,Marketing
+385,Mechanical Engineer,Retail,India,2022,Senior Level,80.35,47851.82,2,Education
+386,Financial Analyst,Retail,UK,2025,Mid Level,6.66,146759.8,3,Manufacturing
+387,Marketing Specialist,Finance,Brazil,2025,Entry Level,35.05,102727.28,2,Finance
+388,Marketing Specialist,Healthcare,UK,2025,Senior Level,0.84,93397.25,5,Education
+389,Marketing Specialist,Education,USA,2026,Entry Level,6.65,32472.18,1,Healthcare
+390,Data Analyst,Technology,Canada,2025,Entry Level,67.12,121217.32,2,Software
+391,Marketing Specialist,Transportation,USA,2023,Senior Level,75.87,54980.65,5,Finance
+392,HR Manager,Retail,Japan,2021,Senior Level,71.64,89187.66,4,Finance
+393,HR Manager,Energy,India,2025,Mid Level,50.71,56794.82,1,Finance
+394,Accountant,Energy,Singapore,2023,Senior Level,27.19,79814.59,4,Manufacturing
+395,Customer Support Rep,Education,UK,2022,Mid Level,69.46,93860.71,3,Finance
+396,Mechanical Engineer,Transportation,UK,2026,Entry Level,18.77,115480.44,3,Education
+397,Financial Analyst,Finance,Australia,2021,Entry Level,66.68,84744.54,4,Healthcare
+398,Data Analyst,Retail,Japan,2021,Senior Level,57.67,71347.94,2,Education
+399,Data Analyst,Technology,Canada,2023,Mid Level,99.76,74433.44,5,Manufacturing
+400,Teacher,Manufacturing,UK,2026,Senior Level,56.62,45430.4,3,Healthcare
+401,Marketing Specialist,Education,Germany,2026,Mid Level,3.89,33699.34,2,Education
+402,Truck Driver,Energy,Japan,2022,Entry Level,99.07,107570.27,4,Software
+403,Software Engineer,Finance,Singapore,2024,Entry Level,92.91,80542,4,Marketing
+404,Customer Support Rep,Manufacturing,Australia,2020,Entry Level,5.33,158825.56,1,Retail
+405,HR Manager,Energy,Japan,2022,Senior Level,64.86,89449.9,5,Software
+406,Software Engineer,Finance,Singapore,2021,Senior Level,66.78,107652.92,3,Healthcare
+407,Mechanical Engineer,Transportation,Australia,2020,Mid Level,80.28,142685,4,Retail
+408,Software Engineer,Manufacturing,Australia,2024,Entry Level,92.13,80114.24,3,Retail
+409,Data Analyst,Transportation,Brazil,2023,Entry Level,60.68,35970.75,5,Marketing
+410,HR Manager,Finance,UK,2020,Mid Level,80.26,58832.13,4,Retail
+411,Mechanical Engineer,Education,Brazil,2022,Entry Level,6.24,104363.69,2,Marketing
+412,Customer Support Rep,Transportation,Brazil,2020,Senior Level,21.08,125401.11,1,Education
+413,Software Engineer,Healthcare,Australia,2026,Entry Level,75.93,41038.41,4,Retail
+414,Financial Analyst,Energy,UK,2024,Mid Level,12.97,110659.5,5,Finance
+415,Accountant,Education,Australia,2021,Mid Level,34.26,39739.6,4,Healthcare
+416,Marketing Specialist,Retail,Australia,2024,Senior Level,13.71,93196.37,5,Manufacturing
+417,Financial Analyst,Energy,Canada,2023,Entry Level,45.96,103878.59,1,Education
+418,Mechanical Engineer,Education,India,2023,Senior Level,66.72,94184.18,5,Finance
+419,HR Manager,Technology,Japan,2022,Entry Level,48.94,91925.53,5,Healthcare
+420,Marketing Specialist,Manufacturing,USA,2024,Entry Level,32.82,143012.4,4,Finance
+421,Accountant,Transportation,UK,2026,Mid Level,64.47,63770.82,2,Finance
+422,Software Engineer,Finance,Germany,2020,Mid Level,27.86,111771.6,4,Software
+423,Mechanical Engineer,Transportation,UK,2023,Mid Level,79.77,57182.31,2,Retail
+424,Teacher,Energy,USA,2025,Mid Level,22.05,124433.58,2,Healthcare
+425,Financial Analyst,Manufacturing,Brazil,2022,Entry Level,15.2,64883.6,4,Manufacturing
+426,Financial Analyst,Transportation,Australia,2021,Senior Level,90.84,80062.97,4,Education
+427,Financial Analyst,Education,Brazil,2022,Mid Level,99.96,35202.93,3,Manufacturing
+428,Marketing Specialist,Energy,Germany,2021,Senior Level,91.06,51198.14,3,Marketing
+429,Financial Analyst,Retail,Germany,2022,Mid Level,16.07,27063.93,3,Manufacturing
+430,Customer Support Rep,Energy,Australia,2023,Mid Level,28.1,33904.96,3,Marketing
+431,Financial Analyst,Retail,Canada,2020,Mid Level,23.69,72926.41,5,Healthcare
+432,Financial Analyst,Transportation,Singapore,2026,Mid Level,23.44,77228.71,3,Education
+433,Accountant,Retail,USA,2022,Mid Level,67.85,108863.95,1,Finance
+434,Mechanical Engineer,Energy,Canada,2025,Mid Level,96.34,124072.7,4,Manufacturing
+435,Customer Support Rep,Manufacturing,Brazil,2022,Senior Level,26.1,98397.69,5,Manufacturing
+436,HR Manager,Healthcare,India,2024,Entry Level,9.24,55636.91,5,Education
+437,Customer Support Rep,Manufacturing,USA,2025,Mid Level,47.1,147414.67,5,Marketing
+438,Customer Support Rep,Manufacturing,USA,2020,Senior Level,88.46,89919.74,4,Software
+439,Mechanical Engineer,Energy,India,2025,Entry Level,34.21,103615.73,2,Education
+440,Software Engineer,Healthcare,Singapore,2025,Mid Level,29.99,96673.19,4,Manufacturing
+441,Truck Driver,Manufacturing,Canada,2022,Mid Level,73.3,47999.05,3,Finance
+442,Software Engineer,Finance,Germany,2024,Senior Level,32.68,105170.51,1,Marketing
+443,Accountant,Transportation,UK,2020,Mid Level,98.06,37727.27,4,Education
+444,Truck Driver,Healthcare,Canada,2020,Senior Level,10.33,119518.82,1,Retail
+445,HR Manager,Finance,Australia,2022,Senior Level,5.28,115392.95,4,Finance
+446,Financial Analyst,Energy,UK,2026,Entry Level,82.36,108715.49,5,Finance
+447,Truck Driver,Retail,Germany,2026,Senior Level,8.47,69217.3,1,Marketing
+448,Mechanical Engineer,Healthcare,Japan,2025,Mid Level,38.46,63335.96,3,Software
+449,Accountant,Technology,Australia,2026,Mid Level,3.27,45079.63,3,Education
+450,Marketing Specialist,Manufacturing,UK,2024,Mid Level,6.85,109410.72,4,Software
+451,Teacher,Education,India,2023,Entry Level,55.07,134252.88,1,Marketing
+452,Accountant,Healthcare,Japan,2022,Senior Level,35.49,89233.91,2,Manufacturing
+453,Software Engineer,Retail,Singapore,2021,Entry Level,82.73,33795.16,4,Retail
+454,HR Manager,Education,Canada,2024,Mid Level,73.15,114995.58,5,Marketing
+455,Software Engineer,Retail,Australia,2025,Entry Level,40.32,145317.87,2,Manufacturing
+456,Software Engineer,Finance,Japan,2022,Senior Level,83.29,87725.87,2,Healthcare
+457,Teacher,Retail,India,2025,Senior Level,48.4,74082,3,Marketing
+458,Mechanical Engineer,Manufacturing,Germany,2021,Mid Level,34.58,68373.34,4,Healthcare
+459,Accountant,Energy,Australia,2023,Entry Level,2.58,72509.91,5,Finance
+460,Truck Driver,Manufacturing,Germany,2025,Mid Level,54.65,38698.95,5,Manufacturing
+461,Data Analyst,Energy,Brazil,2025,Senior Level,39.31,83296.1,3,Marketing
+462,Data Analyst,Finance,USA,2026,Entry Level,83.49,97347.39,5,Retail
+463,Financial Analyst,Manufacturing,Brazil,2021,Mid Level,3.94,132338.3,2,Education
+464,Mechanical Engineer,Energy,India,2025,Mid Level,39.77,99098.03,2,Marketing
+465,Marketing Specialist,Energy,India,2024,Mid Level,54.99,120583.87,4,Education
+466,Software Engineer,Energy,UK,2024,Mid Level,93.04,117713.8,4,Finance
+467,Truck Driver,Technology,Brazil,2023,Entry Level,39.46,95388.68,3,Software
+468,Software Engineer,Transportation,Canada,2026,Entry Level,26.82,118970.4,1,Manufacturing
+469,Customer Support Rep,Finance,USA,2023,Entry Level,19.34,36446.06,3,Finance
+470,Data Analyst,Technology,India,2023,Mid Level,24.05,123704.03,1,Education
+471,HR Manager,Transportation,UK,2026,Mid Level,36.05,114693.32,2,Software
+472,Teacher,Education,Singapore,2023,Senior Level,28.94,162424.63,4,Retail
+473,Teacher,Finance,Brazil,2021,Entry Level,20.15,87092.61,3,Manufacturing
+474,Data Analyst,Healthcare,Brazil,2023,Entry Level,25.3,87529.9,5,Manufacturing
+475,Accountant,Manufacturing,USA,2026,Entry Level,67.65,160778.9,1,Manufacturing
+476,HR Manager,Energy,Brazil,2023,Entry Level,22.63,82635.39,5,Manufacturing
+477,Teacher,Manufacturing,Germany,2023,Mid Level,4.5,123044.46,3,Finance
+478,Accountant,Retail,Germany,2025,Mid Level,8.16,135551.27,1,Manufacturing
+479,Software Engineer,Transportation,USA,2021,Mid Level,66.38,70774.63,2,Education
+480,Data Analyst,Finance,USA,2023,Senior Level,8.99,99349.77,5,Finance
+481,Software Engineer,Manufacturing,USA,2023,Mid Level,52.55,82267.96,4,Finance
+482,Customer Support Rep,Manufacturing,USA,2021,Mid Level,0.11,115249.91,5,Healthcare
+483,HR Manager,Manufacturing,Australia,2024,Entry Level,32.35,103520.34,5,Finance
+484,Mechanical Engineer,Manufacturing,Canada,2021,Senior Level,40.2,47217.26,5,Manufacturing
+485,Customer Support Rep,Transportation,Canada,2022,Entry Level,1.29,27254.53,1,Healthcare
+486,Financial Analyst,Healthcare,Singapore,2024,Entry Level,38,89454.23,4,Education
+487,Software Engineer,Education,Singapore,2026,Entry Level,98.73,38797.28,5,Marketing
+488,Mechanical Engineer,Transportation,Singapore,2021,Mid Level,30.57,168554.85,3,Retail
+489,Teacher,Healthcare,Brazil,2023,Senior Level,57.85,70125.09,2,Education
+490,Customer Support Rep,Retail,UK,2026,Mid Level,18.66,158473.93,4,Manufacturing
+491,Software Engineer,Transportation,Singapore,2024,Senior Level,96.35,100291.6,5,Marketing
+492,Accountant,Transportation,Germany,2022,Senior Level,23.37,96827.49,2,Healthcare
+493,Mechanical Engineer,Finance,Japan,2026,Mid Level,61.36,79970.63,3,Finance
+494,Data Analyst,Manufacturing,USA,2022,Mid Level,18.99,134089.56,4,Healthcare
+495,Marketing Specialist,Technology,India,2021,Mid Level,39.59,125057.15,5,Software
+496,Financial Analyst,Manufacturing,Japan,2021,Mid Level,96.93,134783.46,3,Education
+497,HR Manager,Technology,Germany,2021,Mid Level,45.17,94867.92,1,Finance
+498,Truck Driver,Manufacturing,Germany,2023,Entry Level,44.2,111597.18,2,Manufacturing
+499,Financial Analyst,Education,Canada,2023,Mid Level,47.74,148581.77,4,Retail
+500,Financial Analyst,Education,Canada,2022,Senior Level,73.44,68595.5,3,Healthcare
+501,Financial Analyst,Energy,Japan,2020,Senior Level,80.3,103583.65,4,Retail
+502,Mechanical Engineer,Manufacturing,Australia,2022,Mid Level,15.14,117047.93,4,Healthcare
+503,Software Engineer,Manufacturing,UK,2020,Mid Level,8.02,149965.43,3,Manufacturing
+504,Financial Analyst,Transportation,Canada,2021,Senior Level,87.51,126440.64,2,Finance
+505,Mechanical Engineer,Manufacturing,Singapore,2024,Senior Level,93.59,36352.95,2,Manufacturing
+506,Truck Driver,Education,Canada,2026,Senior Level,64.4,134340.57,4,Marketing
+507,Truck Driver,Energy,UK,2025,Senior Level,4.84,120412.88,3,Finance
+508,Accountant,Healthcare,Brazil,2023,Entry Level,63.15,74200.25,2,Software
+509,Financial Analyst,Technology,Brazil,2020,Senior Level,62.57,177893.24,1,Healthcare
+510,Software Engineer,Technology,Singapore,2021,Mid Level,66.65,103968.52,2,Manufacturing
+511,Data Analyst,Healthcare,USA,2021,Entry Level,39.78,49644.88,5,Healthcare
+512,Truck Driver,Education,USA,2024,Senior Level,7.12,130943.55,5,Manufacturing
+513,Truck Driver,Energy,USA,2020,Entry Level,4.56,98644.16,5,Finance
+514,Financial Analyst,Transportation,USA,2020,Mid Level,51.86,38903.65,5,Marketing
+515,HR Manager,Retail,USA,2024,Senior Level,0.42,123080.75,4,Healthcare
+516,Accountant,Finance,India,2024,Mid Level,17.71,85550.39,2,Education
+517,Customer Support Rep,Manufacturing,Brazil,2022,Senior Level,9.7,106580.79,3,Marketing
+518,HR Manager,Transportation,India,2022,Senior Level,28.06,103430.22,4,Software
+519,Truck Driver,Manufacturing,Germany,2022,Mid Level,39.93,59146.74,1,Finance
+520,Software Engineer,Finance,Singapore,2023,Entry Level,57.84,141268.97,4,Retail
+521,Financial Analyst,Energy,USA,2025,Entry Level,54.86,34198.26,1,Manufacturing
+522,Accountant,Finance,Japan,2026,Entry Level,15.87,41762.19,4,Marketing
+523,Mechanical Engineer,Finance,Brazil,2020,Entry Level,48.38,140316.32,2,Finance
+524,Customer Support Rep,Energy,Canada,2020,Mid Level,57.03,98046.51,1,Marketing
+525,HR Manager,Technology,UK,2026,Entry Level,69.5,74981.14,3,Education
+526,Software Engineer,Manufacturing,UK,2026,Entry Level,41.91,91740,4,Healthcare
+527,Data Analyst,Retail,UK,2024,Mid Level,2.39,25112.75,2,Finance
+528,Marketing Specialist,Transportation,Brazil,2022,Mid Level,40.74,88613.82,4,Healthcare
+529,Accountant,Finance,Brazil,2025,Mid Level,59.69,33456.99,3,Software
+530,Software Engineer,Finance,Singapore,2021,Entry Level,19.86,121839.37,1,Finance
+531,Mechanical Engineer,Transportation,Australia,2020,Senior Level,8.78,119870.02,3,Retail
+532,Truck Driver,Energy,Germany,2022,Mid Level,64.94,71926.74,5,Finance
+533,Teacher,Transportation,UK,2025,Mid Level,67.91,39884.14,5,Education
+534,Teacher,Finance,Canada,2026,Senior Level,22.07,66633.56,2,Marketing
+535,Data Analyst,Finance,Canada,2021,Entry Level,31.26,119667.83,4,Finance
+536,Accountant,Transportation,Australia,2022,Senior Level,76.59,105547.55,1,Healthcare
+537,Data Analyst,Technology,Canada,2023,Mid Level,20.68,51144.48,3,Manufacturing
+538,HR Manager,Finance,UK,2020,Entry Level,26.92,98463.41,2,Education
+539,Teacher,Energy,Brazil,2024,Mid Level,18.28,77565.34,5,Education
+540,Teacher,Finance,USA,2020,Entry Level,31.69,33780.23,3,Manufacturing
+541,Financial Analyst,Finance,Australia,2026,Senior Level,69.03,138472.66,4,Manufacturing
+542,Software Engineer,Retail,Singapore,2023,Entry Level,31.21,91515.04,1,Finance
+543,Financial Analyst,Manufacturing,Brazil,2021,Mid Level,81.19,161495.96,4,Education
+544,Accountant,Healthcare,Canada,2022,Entry Level,25.23,50517.59,3,Retail
+545,Truck Driver,Healthcare,India,2021,Senior Level,16.83,129931.02,4,Finance
+546,HR Manager,Transportation,Canada,2023,Mid Level,82.87,145385.14,1,Software
+547,Mechanical Engineer,Retail,Germany,2025,Entry Level,87.93,146579.7,4,Manufacturing
+548,Marketing Specialist,Manufacturing,Japan,2020,Entry Level,24.88,150890.93,2,Manufacturing
+549,HR Manager,Technology,Singapore,2022,Entry Level,35.72,80447.34,5,Education
+550,Teacher,Education,Japan,2022,Entry Level,98.27,179562.77,4,Education
+551,Marketing Specialist,Healthcare,Canada,2022,Entry Level,19.57,84827.15,5,Manufacturing
+552,Customer Support Rep,Energy,Australia,2021,Mid Level,32.09,92253.42,4,Software
+553,Mechanical Engineer,Retail,Japan,2024,Senior Level,41.87,134050.98,2,Retail
+554,Mechanical Engineer,Transportation,Canada,2026,Mid Level,6.76,121884.24,4,Marketing
+555,Mechanical Engineer,Finance,Germany,2024,Entry Level,62.13,34653.16,5,Finance
+556,Accountant,Technology,Japan,2025,Senior Level,44.42,168027.04,2,Finance
+557,Truck Driver,Retail,India,2026,Entry Level,98.69,137638.78,4,Education
+558,Truck Driver,Healthcare,Canada,2021,Mid Level,40.35,134517.83,3,Retail
+559,Accountant,Transportation,Singapore,2020,Entry Level,18.71,119191.32,4,Finance
+560,Marketing Specialist,Energy,Singapore,2024,Entry Level,95.34,59610.62,5,Marketing
+561,Teacher,Technology,Australia,2025,Mid Level,63.49,71626.68,5,Marketing
+562,Marketing Specialist,Finance,India,2026,Senior Level,95.54,53771.74,2,Retail
+563,Mechanical Engineer,Healthcare,USA,2024,Senior Level,93.48,132577.54,4,Software
+564,Mechanical Engineer,Transportation,India,2020,Mid Level,39.33,48551.53,1,Healthcare
+565,HR Manager,Manufacturing,Brazil,2025,Entry Level,73.95,50281.93,5,Software
+566,Financial Analyst,Manufacturing,Japan,2022,Entry Level,27.4,35373.17,4,Marketing
+567,Truck Driver,Healthcare,Australia,2020,Mid Level,14.12,33773.29,4,Manufacturing
+568,Data Analyst,Retail,Singapore,2020,Entry Level,19.2,70714.91,1,Education
+569,Accountant,Education,Canada,2022,Entry Level,33.48,152628.65,4,Education
+570,Customer Support Rep,Energy,Australia,2023,Senior Level,13.23,53739.37,1,Marketing
+571,Truck Driver,Energy,Australia,2020,Entry Level,82.4,124371.15,3,Healthcare
+572,Software Engineer,Finance,USA,2026,Senior Level,69,58309.19,3,Finance
+573,Data Analyst,Healthcare,Germany,2024,Mid Level,29.8,54632.41,2,Software
+574,Financial Analyst,Healthcare,Australia,2024,Senior Level,16.17,84788.53,4,Manufacturing
+575,Truck Driver,Manufacturing,Singapore,2025,Mid Level,19.55,96938.61,2,Retail
+576,Accountant,Transportation,Singapore,2020,Mid Level,73.79,69130.47,5,Finance
+577,Customer Support Rep,Energy,Singapore,2023,Mid Level,91.92,51521.42,1,Software
+578,Customer Support Rep,Manufacturing,Canada,2026,Senior Level,56.9,65070.47,1,Retail
+579,Marketing Specialist,Finance,Brazil,2021,Senior Level,94.1,78818.58,3,Software
+580,Mechanical Engineer,Manufacturing,Japan,2020,Senior Level,67.38,124097.09,3,Healthcare
+581,Truck Driver,Education,Singapore,2024,Entry Level,20.41,112389.8,4,Education
+582,Marketing Specialist,Finance,Australia,2022,Mid Level,89.8,55434.8,4,Marketing
+583,Marketing Specialist,Healthcare,Canada,2024,Mid Level,3.93,81411.15,5,Finance
+584,Data Analyst,Healthcare,Australia,2020,Senior Level,60.03,115278.56,2,Software
+585,HR Manager,Finance,UK,2022,Mid Level,89.74,111176.15,2,Retail
+586,Financial Analyst,Transportation,Singapore,2024,Mid Level,34,95607.6,2,Manufacturing
+587,Marketing Specialist,Transportation,Singapore,2021,Senior Level,70.66,128018.04,4,Healthcare
+588,Financial Analyst,Healthcare,Brazil,2021,Mid Level,85.79,54894.5,4,Finance
+589,HR Manager,Healthcare,UK,2022,Mid Level,5.28,116882.93,4,Marketing
+590,Marketing Specialist,Technology,Australia,2020,Senior Level,37.97,112819.24,4,Healthcare
+591,Accountant,Manufacturing,Singapore,2024,Mid Level,66.67,147835.89,5,Retail
+592,Truck Driver,Transportation,Japan,2023,Senior Level,80.52,95708.25,4,Education
+593,Truck Driver,Healthcare,India,2024,Mid Level,34.7,90585.32,1,Finance
+594,Customer Support Rep,Retail,USA,2022,Entry Level,1.2,54937.27,2,Software
+595,Financial Analyst,Retail,UK,2026,Mid Level,23.66,40320.88,4,Software
+596,Marketing Specialist,Energy,Brazil,2024,Entry Level,50.49,40652.4,1,Marketing
+597,Marketing Specialist,Finance,Canada,2026,Entry Level,26.24,43954.94,5,Retail
+598,Mechanical Engineer,Technology,Japan,2024,Mid Level,10.66,80922.26,2,Software
+599,Teacher,Finance,Germany,2022,Senior Level,63.08,169284.05,1,Retail
+600,Truck Driver,Retail,Australia,2026,Mid Level,48.56,67129.88,1,Education
+601,Truck Driver,Finance,Germany,2021,Senior Level,51.47,65561.05,5,Manufacturing
+602,Mechanical Engineer,Transportation,UK,2024,Senior Level,93.26,69685.32,2,Software
+603,Customer Support Rep,Manufacturing,USA,2024,Entry Level,89.92,133694.22,3,Finance
+604,Financial Analyst,Retail,Brazil,2021,Mid Level,30.1,55241.84,3,Retail
+605,HR Manager,Retail,Canada,2026,Entry Level,46.86,54548.64,5,Marketing
+606,Data Analyst,Healthcare,Singapore,2020,Entry Level,56.54,48534.56,3,Healthcare
+607,Accountant,Healthcare,Germany,2021,Senior Level,82.96,139001.2,3,Education
+608,Customer Support Rep,Transportation,Japan,2021,Mid Level,27.56,127254.24,5,Marketing
+609,HR Manager,Transportation,Singapore,2023,Senior Level,6.38,149956.31,1,Finance
+610,Data Analyst,Transportation,Brazil,2025,Mid Level,37.72,167943.24,3,Education
+611,Mechanical Engineer,Energy,Japan,2022,Senior Level,60.82,57601.46,5,Manufacturing
+612,Software Engineer,Finance,Japan,2025,Senior Level,35.48,36116.61,3,Software
+613,Data Analyst,Transportation,Germany,2023,Mid Level,41.93,140309.34,2,Finance
+614,Truck Driver,Retail,Australia,2026,Mid Level,36.83,34187.91,3,Software
+615,Mechanical Engineer,Healthcare,Japan,2026,Entry Level,86.44,147806,3,Education
+616,Software Engineer,Technology,India,2025,Senior Level,48.06,138488.67,4,Manufacturing
+617,Software Engineer,Finance,UK,2023,Senior Level,5.46,142455.55,4,Finance
+618,Software Engineer,Transportation,Germany,2025,Senior Level,12.91,82592.74,2,Healthcare
+619,HR Manager,Healthcare,Canada,2020,Entry Level,34.3,54523.58,3,Finance
+620,HR Manager,Finance,Australia,2025,Entry Level,5.02,161769.04,2,Education
+621,Software Engineer,Transportation,Canada,2025,Mid Level,60.59,49621.06,2,Finance
+622,Teacher,Finance,India,2020,Entry Level,53.55,32498.92,2,Retail
+623,Truck Driver,Finance,UK,2024,Senior Level,96.21,152334.88,2,Healthcare
+624,Financial Analyst,Energy,USA,2020,Senior Level,27.9,148599.23,3,Education
+625,Data Analyst,Transportation,UK,2023,Mid Level,31.65,104337.25,1,Manufacturing
+626,Customer Support Rep,Transportation,India,2025,Entry Level,0.62,154803.16,1,Software
+627,Data Analyst,Education,Australia,2022,Mid Level,25.76,49598.33,2,Software
+628,Teacher,Healthcare,UK,2020,Entry Level,40.56,154299.63,5,Marketing
+629,Marketing Specialist,Technology,UK,2023,Entry Level,69.5,77466.81,3,Retail
+630,Customer Support Rep,Healthcare,Singapore,2024,Senior Level,34.7,69964.93,4,Retail
+631,Customer Support Rep,Finance,India,2021,Entry Level,23.83,102206.12,1,Finance
+632,Marketing Specialist,Transportation,Australia,2023,Senior Level,96.7,31601.24,3,Software
+633,Accountant,Manufacturing,Canada,2025,Mid Level,37.2,100603.61,1,Marketing
+634,Customer Support Rep,Retail,USA,2026,Mid Level,44.34,144228.31,3,Manufacturing
+635,Customer Support Rep,Manufacturing,Singapore,2022,Mid Level,31.56,61986.9,1,Manufacturing
+636,Customer Support Rep,Energy,Singapore,2020,Mid Level,57.65,66678.99,2,Marketing
+637,Truck Driver,Finance,Brazil,2020,Entry Level,6.41,106887.06,3,Retail
+638,Mechanical Engineer,Healthcare,Singapore,2026,Senior Level,95.33,111554.29,5,Software
+639,Teacher,Education,Brazil,2025,Mid Level,23.88,93410.08,2,Software
+640,Truck Driver,Finance,USA,2024,Entry Level,95.47,48760.75,1,Marketing
+641,Software Engineer,Retail,Germany,2020,Entry Level,85.83,68330.26,1,Retail
+642,Teacher,Retail,Brazil,2026,Senior Level,40.92,68583.56,4,Marketing
+643,Teacher,Transportation,India,2025,Senior Level,72.7,62531.56,5,Finance
+644,Financial Analyst,Healthcare,Canada,2020,Mid Level,75.18,117740.83,3,Software
+645,Data Analyst,Manufacturing,UK,2024,Senior Level,63.17,76646.47,3,Retail
+646,Teacher,Finance,Canada,2025,Senior Level,32.28,80666.88,4,Education
+647,Customer Support Rep,Technology,Germany,2020,Entry Level,77.59,147042.21,4,Software
+648,Data Analyst,Energy,USA,2022,Mid Level,45.84,110236.02,2,Healthcare
+649,Data Analyst,Technology,UK,2025,Entry Level,13.34,32844.21,1,Retail
+650,Accountant,Energy,Australia,2024,Senior Level,64.96,32433.85,5,Retail
+651,HR Manager,Healthcare,Australia,2021,Mid Level,38.51,36662.27,3,Retail
+652,Data Analyst,Technology,Australia,2026,Entry Level,63.91,118979.95,4,Education
+653,HR Manager,Finance,Canada,2025,Senior Level,97.44,70353.54,5,Manufacturing
+654,Data Analyst,Energy,Japan,2024,Entry Level,98.25,98099.87,3,Marketing
+655,Software Engineer,Energy,UK,2022,Entry Level,5.51,77449.56,2,Software
+656,HR Manager,Finance,India,2021,Senior Level,97.26,109732.62,5,Finance
+657,Software Engineer,Technology,USA,2021,Entry Level,31.57,125949.55,1,Retail
+658,Truck Driver,Education,Singapore,2021,Mid Level,67.08,83603.6,2,Marketing
+659,Software Engineer,Transportation,Germany,2022,Entry Level,19.25,126210.43,2,Education
+660,Teacher,Education,Canada,2026,Entry Level,9.14,97729.93,1,Manufacturing
+661,Marketing Specialist,Education,India,2024,Entry Level,4.9,58633.74,1,Software
+662,Accountant,Manufacturing,Brazil,2020,Entry Level,73.52,60790.02,4,Healthcare
+663,Data Analyst,Energy,Canada,2026,Entry Level,12.99,104587.91,3,Education
+664,Mechanical Engineer,Finance,Brazil,2023,Senior Level,78.15,108808.08,1,Retail
+665,Mechanical Engineer,Manufacturing,Canada,2024,Entry Level,31.42,114182.16,3,Marketing
+666,Marketing Specialist,Manufacturing,Japan,2022,Mid Level,49.44,45756.31,5,Software
+667,Truck Driver,Manufacturing,Brazil,2026,Mid Level,64.59,131745.9,2,Education
+668,Accountant,Technology,Singapore,2020,Entry Level,40.55,93090.42,2,Manufacturing
+669,Financial Analyst,Education,USA,2022,Senior Level,26.57,61057.52,1,Retail
+670,Teacher,Retail,India,2021,Senior Level,30.16,147970.53,5,Finance
+671,Customer Support Rep,Transportation,Japan,2020,Entry Level,14.14,46423.24,2,Education
+672,HR Manager,Finance,USA,2021,Entry Level,53.73,39678.83,5,Marketing
+673,Teacher,Education,Japan,2025,Mid Level,56.95,61603.26,1,Retail
+674,Marketing Specialist,Finance,Brazil,2021,Mid Level,78.07,121404.09,4,Finance
+675,Data Analyst,Technology,Singapore,2025,Senior Level,93.62,66753.95,2,Marketing
+676,Customer Support Rep,Retail,Canada,2026,Mid Level,91.22,117301.22,3,Software
+677,Teacher,Education,Australia,2023,Mid Level,14.61,115403.08,3,Marketing
+678,Customer Support Rep,Finance,Germany,2021,Entry Level,90.96,71576.36,5,Finance
+679,Data Analyst,Healthcare,India,2021,Entry Level,91.58,60092.02,4,Manufacturing
+680,Truck Driver,Education,Singapore,2020,Senior Level,81.6,138507.88,5,Manufacturing
+681,Mechanical Engineer,Manufacturing,Japan,2022,Senior Level,98.62,130374.5,4,Education
+682,HR Manager,Finance,India,2021,Entry Level,49.67,37565.81,3,Education
+683,Marketing Specialist,Technology,Germany,2026,Entry Level,7.07,112408.84,3,Software
+684,Accountant,Finance,Germany,2022,Mid Level,59.54,84530.95,4,Education
+685,Financial Analyst,Technology,Canada,2022,Mid Level,1.67,94068.98,2,Healthcare
+686,Software Engineer,Transportation,Japan,2024,Mid Level,95.97,119126.94,5,Software
+687,Customer Support Rep,Finance,Japan,2020,Entry Level,51.8,122162,2,Retail
+688,Data Analyst,Technology,USA,2026,Mid Level,58.84,75747.47,2,Software
+689,Accountant,Manufacturing,Singapore,2022,Mid Level,66.93,109571.48,1,Finance
+690,Marketing Specialist,Retail,India,2020,Entry Level,91.68,83990.62,1,Education
+691,Customer Support Rep,Energy,UK,2020,Entry Level,24.58,86372.4,3,Retail
+692,Data Analyst,Technology,Japan,2020,Entry Level,37.58,100576.63,2,Software
+693,Marketing Specialist,Transportation,Singapore,2023,Entry Level,92.66,116381.35,1,Healthcare
+694,Teacher,Transportation,UK,2022,Entry Level,96.58,42721.67,2,Marketing
+695,Accountant,Retail,Canada,2023,Senior Level,89.25,124150.92,2,Marketing
+696,Software Engineer,Manufacturing,Canada,2023,Mid Level,21.21,170415.61,4,Retail
+697,Financial Analyst,Energy,USA,2020,Mid Level,0.71,57638.28,3,Healthcare
+698,Teacher,Healthcare,Singapore,2021,Entry Level,62.25,51667.89,5,Education
+699,Customer Support Rep,Technology,Singapore,2026,Mid Level,77.18,134662.77,3,Education
+700,Truck Driver,Energy,Australia,2024,Senior Level,85.01,38026.8,5,Finance
+701,Mechanical Engineer,Transportation,Canada,2021,Entry Level,1.7,59450.7,1,Finance
+702,Mechanical Engineer,Manufacturing,USA,2026,Entry Level,82.27,33971.78,3,Retail
+703,Software Engineer,Energy,Brazil,2022,Senior Level,76.51,91768.95,5,Healthcare
+704,Customer Support Rep,Healthcare,India,2021,Mid Level,96.23,52161.07,2,Manufacturing
+705,HR Manager,Technology,Germany,2024,Senior Level,50.19,63517.01,4,Healthcare
+706,Mechanical Engineer,Healthcare,UK,2021,Entry Level,85.33,87326.69,5,Finance
+707,Mechanical Engineer,Education,USA,2025,Mid Level,35.61,58233.45,3,Retail
+708,Marketing Specialist,Healthcare,Germany,2026,Entry Level,86.66,62198.13,4,Software
+709,Financial Analyst,Retail,UK,2023,Mid Level,50.61,54378.57,1,Healthcare
+710,Data Analyst,Technology,Germany,2024,Entry Level,49.3,110613.19,2,Marketing
+711,Software Engineer,Energy,USA,2022,Senior Level,57.28,107882.49,5,Marketing
+712,Customer Support Rep,Healthcare,Australia,2025,Entry Level,30.51,68223.96,2,Retail
+713,Mechanical Engineer,Technology,USA,2021,Senior Level,35.66,35882.79,5,Software
+714,Accountant,Finance,Brazil,2026,Senior Level,20.6,59384.8,3,Finance
+715,Data Analyst,Education,Singapore,2024,Mid Level,74.2,132416.47,1,Healthcare
+716,Mechanical Engineer,Retail,Australia,2021,Entry Level,90.59,152743.81,2,Finance
+717,Teacher,Energy,Australia,2021,Mid Level,54.48,39583.07,5,Marketing
+718,Marketing Specialist,Education,Germany,2025,Entry Level,11.36,161613.25,5,Manufacturing
+719,Accountant,Transportation,Canada,2025,Senior Level,28.47,100628.69,3,Education
+720,Accountant,Healthcare,USA,2025,Entry Level,80.18,41992.27,5,Finance
+721,Teacher,Technology,UK,2024,Mid Level,48.74,127520.8,3,Manufacturing
+722,Marketing Specialist,Manufacturing,India,2023,Mid Level,83.61,103083.02,2,Software
+723,Mechanical Engineer,Finance,Germany,2022,Senior Level,98.66,74110.27,3,Healthcare
+724,Accountant,Finance,Australia,2023,Entry Level,17.08,137439.04,1,Healthcare
+725,HR Manager,Manufacturing,Germany,2025,Senior Level,14.56,51451.95,1,Marketing
+726,Mechanical Engineer,Retail,India,2025,Entry Level,84.22,130351.42,1,Finance
+727,Software Engineer,Transportation,Japan,2025,Entry Level,94.79,80084.53,4,Manufacturing
+728,Accountant,Transportation,Japan,2023,Mid Level,35.07,32300.09,3,Retail
+729,Financial Analyst,Transportation,India,2026,Senior Level,70.72,66384.78,4,Manufacturing
+730,Marketing Specialist,Manufacturing,UK,2023,Mid Level,91.13,99923.2,1,Education
+731,Software Engineer,Retail,USA,2022,Entry Level,89.4,148900.94,3,Healthcare
+732,Data Analyst,Finance,Australia,2021,Entry Level,79.74,125842.95,4,Manufacturing
+733,Accountant,Finance,Brazil,2020,Mid Level,66.35,56456.22,3,Education
+734,Marketing Specialist,Energy,USA,2023,Mid Level,9.74,132226.07,2,Retail
+735,Marketing Specialist,Transportation,UK,2020,Senior Level,65.27,142576,1,Finance
+736,Mechanical Engineer,Manufacturing,Germany,2023,Mid Level,71.36,54675.67,5,Retail
+737,Financial Analyst,Retail,Canada,2022,Senior Level,38.94,81432.21,2,Education
+738,Data Analyst,Technology,Singapore,2024,Mid Level,31.15,126849.12,5,Marketing
+739,Truck Driver,Healthcare,USA,2022,Senior Level,36.73,110910,1,Retail
+740,Teacher,Finance,Canada,2026,Senior Level,93.34,81780.19,5,Healthcare
+741,Truck Driver,Manufacturing,India,2020,Entry Level,35.94,34161.44,2,Marketing
+742,Accountant,Retail,India,2023,Entry Level,71.72,73847.82,1,Marketing
+743,HR Manager,Transportation,Japan,2023,Mid Level,28.63,114311.66,3,Software
+744,Data Analyst,Transportation,UK,2022,Mid Level,98,119474.69,4,Retail
+745,Mechanical Engineer,Healthcare,Japan,2020,Mid Level,96.84,92890.91,3,Education
+746,Truck Driver,Energy,Canada,2021,Mid Level,46.98,110191.37,3,Retail
+747,Marketing Specialist,Technology,UK,2026,Entry Level,33.84,56115.79,1,Healthcare
+748,Data Analyst,Education,Brazil,2023,Mid Level,88.98,37268.88,5,Manufacturing
+749,Customer Support Rep,Technology,Singapore,2026,Senior Level,74.26,72621.67,5,Healthcare
+750,Teacher,Energy,Germany,2023,Senior Level,27.79,86234.51,3,Software
+751,Data Analyst,Transportation,USA,2024,Mid Level,87.34,142518.46,5,Marketing
+752,Financial Analyst,Healthcare,India,2026,Senior Level,35.22,72556.42,4,Retail
+753,Accountant,Healthcare,Germany,2026,Mid Level,50.51,86997.04,2,Healthcare
+754,Accountant,Technology,Singapore,2020,Senior Level,76.68,54225.73,4,Manufacturing
+755,Customer Support Rep,Healthcare,Canada,2022,Senior Level,56.21,143543.69,1,Retail
+756,Data Analyst,Transportation,Brazil,2023,Entry Level,48.42,102489.6,5,Healthcare
+757,Mechanical Engineer,Retail,Brazil,2023,Entry Level,19.12,122379.35,1,Manufacturing
+758,Marketing Specialist,Transportation,India,2023,Entry Level,26.8,78047.59,2,Retail
+759,Accountant,Finance,India,2024,Senior Level,96.89,42423.27,1,Healthcare
+760,HR Manager,Education,Singapore,2022,Mid Level,48.25,39318.37,4,Education
+761,Truck Driver,Energy,USA,2021,Entry Level,71.47,87765.99,3,Software
+762,Teacher,Healthcare,Singapore,2020,Mid Level,78.05,54678.11,4,Retail
+763,Mechanical Engineer,Manufacturing,USA,2025,Mid Level,68.32,31663,4,Finance
+764,HR Manager,Education,USA,2022,Mid Level,72.72,105971.27,3,Finance
+765,HR Manager,Retail,Japan,2026,Senior Level,99.86,52234.35,1,Software
+766,Customer Support Rep,Healthcare,Canada,2025,Mid Level,0.91,142887.6,4,Education
+767,Mechanical Engineer,Retail,Singapore,2024,Senior Level,80.5,167678.77,1,Manufacturing
+768,Customer Support Rep,Energy,Germany,2026,Mid Level,44.21,40887.93,4,Healthcare
+769,Truck Driver,Education,USA,2024,Mid Level,5.29,33484.28,2,Manufacturing
+770,Data Analyst,Retail,Brazil,2023,Mid Level,35.62,70955.74,2,Healthcare
+771,Financial Analyst,Technology,UK,2021,Senior Level,88.13,79425.49,2,Retail
+772,Software Engineer,Manufacturing,USA,2023,Mid Level,94.19,68982.86,1,Finance
+773,Mechanical Engineer,Manufacturing,Canada,2022,Senior Level,79.05,74201.68,4,Software
+774,Financial Analyst,Transportation,India,2025,Senior Level,25.2,121310.32,1,Retail
+775,Customer Support Rep,Education,Japan,2024,Entry Level,11.67,113347.41,4,Education
+776,Accountant,Energy,Brazil,2022,Entry Level,3.63,69416.97,3,Retail
+777,Accountant,Retail,India,2022,Senior Level,40.64,87858.46,1,Retail
+778,Teacher,Technology,UK,2026,Mid Level,69.95,53638.54,5,Finance
+779,Customer Support Rep,Manufacturing,Germany,2025,Entry Level,58.74,79966.58,2,Finance
+780,HR Manager,Transportation,Brazil,2020,Entry Level,41.06,137475.65,1,Finance
+781,Truck Driver,Healthcare,UK,2024,Senior Level,41.8,120225.26,1,Finance
+782,Customer Support Rep,Retail,Canada,2025,Senior Level,74.65,54877.62,3,Software
+783,Teacher,Transportation,Australia,2023,Entry Level,6.33,132365.5,3,Manufacturing
+784,Customer Support Rep,Energy,Canada,2025,Mid Level,23.32,68178.27,5,Healthcare
+785,Marketing Specialist,Transportation,India,2020,Mid Level,7.27,27238.96,5,Manufacturing
+786,Mechanical Engineer,Retail,Canada,2025,Senior Level,35.55,146844.58,1,Retail
+787,Truck Driver,Finance,Australia,2022,Senior Level,81.8,101576.45,3,Marketing
+788,HR Manager,Retail,Canada,2021,Entry Level,82.37,135505.01,2,Software
+789,Financial Analyst,Manufacturing,USA,2026,Entry Level,7.55,76269.71,5,Retail
+790,Teacher,Education,UK,2025,Mid Level,80.73,38081.72,1,Education
+791,Truck Driver,Retail,Canada,2023,Entry Level,0.38,72944.74,4,Education
+792,Teacher,Technology,Germany,2022,Entry Level,99.46,48315.15,2,Finance
+793,Financial Analyst,Energy,Australia,2024,Senior Level,8.65,82701.95,3,Marketing
+794,Accountant,Healthcare,Canada,2020,Senior Level,28.52,91062.45,4,Finance
+795,Accountant,Retail,Brazil,2026,Mid Level,87,55865.43,2,Healthcare
+796,Mechanical Engineer,Finance,Germany,2022,Senior Level,5.47,62346.68,2,Education
+797,HR Manager,Transportation,Australia,2022,Senior Level,80.51,72080.56,3,Manufacturing
+798,Marketing Specialist,Retail,Japan,2026,Senior Level,28.56,55580.55,1,Retail
+799,Truck Driver,Technology,India,2023,Entry Level,79.97,91444.67,2,Marketing
+800,Financial Analyst,Finance,Singapore,2024,Entry Level,93.25,60524.56,3,Healthcare
+801,Teacher,Technology,UK,2021,Mid Level,21.35,98065.92,2,Marketing
+802,Mechanical Engineer,Transportation,Japan,2021,Mid Level,15.65,44107.73,3,Manufacturing
+803,Accountant,Finance,Japan,2022,Entry Level,7.17,126712.72,2,Healthcare
+804,Mechanical Engineer,Technology,USA,2023,Senior Level,63.39,106292.36,3,Retail
+805,Customer Support Rep,Healthcare,UK,2023,Senior Level,17.97,31882.11,1,Manufacturing
+806,Accountant,Transportation,Singapore,2023,Entry Level,43.47,33831.3,4,Software
+807,Truck Driver,Transportation,USA,2020,Mid Level,46.55,57481.22,5,Finance
+808,Customer Support Rep,Education,USA,2022,Senior Level,90.08,73233.73,5,Marketing
+809,Customer Support Rep,Technology,USA,2025,Senior Level,19.96,126940.62,2,Retail
+810,Customer Support Rep,Education,Canada,2021,Mid Level,48.31,38777.6,1,Finance
+811,Teacher,Retail,UK,2020,Entry Level,91.08,51093.02,1,Software
+812,HR Manager,Retail,Japan,2025,Senior Level,3.96,36961.69,5,Software
+813,Marketing Specialist,Education,Singapore,2025,Mid Level,12.88,99876.79,2,Retail
+814,Mechanical Engineer,Energy,Australia,2026,Mid Level,86.72,97963.68,2,Software
+815,Accountant,Transportation,USA,2021,Senior Level,2.01,117055.4,2,Marketing
+816,Accountant,Manufacturing,USA,2024,Senior Level,67.73,29363.57,5,Education
+817,Accountant,Finance,Australia,2025,Senior Level,12.65,79012.39,1,Software
+818,Teacher,Retail,Brazil,2024,Senior Level,41.33,90224.84,1,Software
+819,Marketing Specialist,Technology,India,2025,Entry Level,83.5,131490.51,1,Education
+820,Software Engineer,Finance,Singapore,2023,Senior Level,57.97,84520.59,4,Healthcare
+821,Data Analyst,Retail,Japan,2025,Senior Level,37.68,109857.84,2,Retail
+822,Customer Support Rep,Technology,Canada,2023,Entry Level,19.15,59130.71,1,Manufacturing
+823,Financial Analyst,Retail,UK,2023,Entry Level,81.68,44518.21,1,Manufacturing
+824,Financial Analyst,Finance,Canada,2020,Entry Level,28.43,79784.58,1,Healthcare
+825,Truck Driver,Manufacturing,Germany,2026,Mid Level,66.36,125573.89,3,Healthcare
+826,Financial Analyst,Manufacturing,Australia,2025,Mid Level,2.03,47243.43,4,Marketing
+827,HR Manager,Healthcare,USA,2024,Senior Level,11.97,92998.11,4,Retail
+828,Customer Support Rep,Energy,Australia,2021,Mid Level,77.85,139737.58,1,Marketing
+829,Software Engineer,Finance,India,2026,Senior Level,43.24,86621.4,5,Healthcare
+830,Truck Driver,Healthcare,India,2026,Entry Level,73.83,61780.26,5,Manufacturing
+831,Data Analyst,Finance,Canada,2025,Entry Level,8.58,98552.34,2,Retail
+832,Truck Driver,Retail,Canada,2023,Senior Level,4.37,50342.89,1,Retail
+833,Data Analyst,Healthcare,USA,2026,Senior Level,6.7,54782.13,3,Retail
+834,Mechanical Engineer,Education,Singapore,2025,Mid Level,19.13,83255.93,1,Manufacturing
+835,Data Analyst,Technology,USA,2026,Senior Level,12.25,40399.18,2,Finance
+836,Accountant,Education,Australia,2023,Senior Level,94.51,86360.31,5,Retail
+837,HR Manager,Finance,Australia,2026,Entry Level,62.63,57949.23,3,Education
+838,Accountant,Finance,Singapore,2023,Senior Level,72,42509.38,4,Finance
+839,HR Manager,Transportation,Japan,2026,Senior Level,89.02,100599.42,4,Marketing
+840,Accountant,Finance,UK,2025,Mid Level,41.09,91912.78,1,Manufacturing
+841,Accountant,Finance,Singapore,2024,Senior Level,24.18,35761.51,4,Manufacturing
+842,Marketing Specialist,Energy,UK,2024,Senior Level,77.04,119309.93,4,Retail
+843,Mechanical Engineer,Technology,UK,2023,Mid Level,92.22,84639.53,4,Healthcare
+844,Data Analyst,Transportation,Japan,2020,Entry Level,17.64,96030.17,1,Finance
+845,HR Manager,Education,USA,2025,Mid Level,11.26,110340.22,5,Education
+846,Marketing Specialist,Manufacturing,Australia,2024,Entry Level,17.08,88686.48,5,Software
+847,Marketing Specialist,Finance,Singapore,2025,Senior Level,91.23,121090.49,2,Education
+848,Truck Driver,Education,Singapore,2021,Mid Level,44.24,65577.55,5,Marketing
+849,Marketing Specialist,Technology,USA,2025,Mid Level,43.4,95265.32,2,Software
+850,Financial Analyst,Energy,Japan,2026,Entry Level,81.24,101870.89,2,Manufacturing
+851,Data Analyst,Energy,Australia,2021,Senior Level,4.39,146172.73,3,Software
+852,HR Manager,Technology,Brazil,2021,Mid Level,35.5,50482.16,5,Education
+853,Teacher,Transportation,Germany,2020,Entry Level,9.46,36168.1,4,Education
+854,Truck Driver,Energy,India,2026,Mid Level,50.41,37661.8,4,Manufacturing
+855,Truck Driver,Education,India,2023,Entry Level,49.28,126063.26,1,Finance
+856,Data Analyst,Transportation,Singapore,2020,Senior Level,43.03,100805.71,5,Marketing
+857,Financial Analyst,Technology,India,2026,Mid Level,3.12,132404.26,5,Education
+858,Marketing Specialist,Retail,Brazil,2024,Entry Level,94.89,74298.07,2,Software
+859,Truck Driver,Education,Australia,2026,Entry Level,57.35,122320.46,1,Software
+860,Customer Support Rep,Energy,Australia,2024,Entry Level,26.85,80852.77,5,Software
+861,Marketing Specialist,Energy,Australia,2025,Senior Level,26.78,76723.67,4,Manufacturing
+862,Data Analyst,Finance,Germany,2020,Senior Level,54.45,138807.14,3,Healthcare
+863,Mechanical Engineer,Retail,Brazil,2024,Senior Level,45.38,147729.35,3,Finance
+864,Data Analyst,Technology,UK,2023,Entry Level,90.09,94999.44,2,Marketing
+865,Teacher,Finance,Canada,2024,Mid Level,8.92,77538.71,2,Software
+866,Customer Support Rep,Finance,Singapore,2021,Mid Level,97.59,86486.57,4,Finance
+867,Customer Support Rep,Education,India,2026,Mid Level,6.16,33493.04,4,Education
+868,Software Engineer,Finance,Japan,2023,Senior Level,40.45,61093.84,5,Education
+869,Financial Analyst,Healthcare,Japan,2020,Entry Level,44.67,151729.2,5,Manufacturing
+870,Software Engineer,Transportation,Japan,2024,Mid Level,71.41,86435.69,2,Manufacturing
+871,Marketing Specialist,Healthcare,UK,2020,Senior Level,30.96,62128.18,4,Healthcare
+872,Marketing Specialist,Education,Brazil,2023,Senior Level,89.67,80383.29,4,Software
+873,Marketing Specialist,Manufacturing,Canada,2023,Entry Level,64.48,42410.67,3,Marketing
+874,HR Manager,Energy,UK,2021,Mid Level,43.71,55759.03,4,Finance
+875,Marketing Specialist,Retail,Brazil,2026,Mid Level,25.71,127706.34,3,Education
+876,Financial Analyst,Manufacturing,Germany,2021,Mid Level,65.08,63814.93,5,Retail
+877,HR Manager,Education,UK,2025,Entry Level,49.72,34733.57,2,Software
+878,Financial Analyst,Education,India,2026,Mid Level,49.63,76136.24,3,Finance
+879,Financial Analyst,Energy,Singapore,2025,Mid Level,39.73,163652.13,5,Education
+880,HR Manager,Transportation,USA,2024,Senior Level,83.29,41945.43,1,Education
+881,Software Engineer,Transportation,UK,2020,Mid Level,93.04,118407.36,1,Manufacturing
+882,Customer Support Rep,Retail,UK,2022,Entry Level,23.92,48685.36,3,Marketing
+883,Accountant,Technology,Canada,2021,Senior Level,61.27,105874.74,5,Education
+884,Software Engineer,Education,Japan,2020,Mid Level,70.13,61140.69,5,Software
+885,Financial Analyst,Manufacturing,Brazil,2023,Senior Level,4.67,78296.93,2,Marketing
+886,Financial Analyst,Retail,USA,2023,Senior Level,46.49,113062.83,4,Education
+887,Teacher,Education,Brazil,2020,Senior Level,66.38,103390.06,1,Manufacturing
+888,HR Manager,Manufacturing,Japan,2026,Mid Level,74.63,146708.22,2,Retail
+889,Mechanical Engineer,Manufacturing,Germany,2022,Entry Level,39.43,118502.3,4,Software
+890,Accountant,Finance,UK,2021,Senior Level,7.42,128671.54,5,Retail
+891,Data Analyst,Transportation,USA,2023,Senior Level,90.4,123657.55,3,Manufacturing
+892,Financial Analyst,Retail,UK,2021,Senior Level,17.88,93280.33,5,Manufacturing
+893,HR Manager,Technology,Australia,2023,Senior Level,43.8,93363.73,2,Education
+894,Software Engineer,Healthcare,Australia,2024,Mid Level,44.04,137465.19,1,Healthcare
+895,Marketing Specialist,Retail,Japan,2026,Senior Level,62.33,99133.21,5,Software
+896,Financial Analyst,Education,India,2026,Entry Level,68.91,58497.97,3,Marketing
+897,Financial Analyst,Manufacturing,UK,2024,Senior Level,66.94,109302.69,1,Software
+898,Financial Analyst,Healthcare,Singapore,2024,Senior Level,27.74,104596.4,5,Marketing
+899,Teacher,Finance,Australia,2021,Mid Level,52.78,73505.46,2,Healthcare
+900,Mechanical Engineer,Education,Australia,2022,Senior Level,48.24,146481.88,2,Retail
+901,Marketing Specialist,Energy,Brazil,2026,Mid Level,88.11,73249.62,1,Education
+902,Data Analyst,Education,Japan,2021,Senior Level,27.73,130390.03,5,Software
+903,Marketing Specialist,Manufacturing,USA,2025,Senior Level,84.08,83883.26,3,Marketing
+904,Teacher,Finance,Singapore,2022,Senior Level,93.08,85883.85,5,Manufacturing
+905,HR Manager,Technology,Brazil,2026,Mid Level,54.24,46005.56,3,Finance
+906,Financial Analyst,Energy,Japan,2020,Mid Level,20.87,130181.51,3,Marketing
+907,Customer Support Rep,Education,Brazil,2020,Entry Level,59.94,45224.42,1,Software
+908,Accountant,Technology,India,2021,Entry Level,42.54,114746.31,2,Finance
+909,Teacher,Finance,Germany,2024,Mid Level,8.77,134251.47,4,Finance
+910,Data Analyst,Healthcare,USA,2023,Senior Level,71.9,96397.38,3,Software
+911,Software Engineer,Finance,India,2020,Senior Level,51.82,76445.58,2,Healthcare
+912,HR Manager,Finance,Germany,2022,Entry Level,92.42,31508.93,4,Software
+913,Teacher,Energy,Singapore,2023,Entry Level,0.07,66974.98,3,Software
+914,Software Engineer,Transportation,India,2024,Entry Level,2.09,66081.52,1,Software
+915,Marketing Specialist,Finance,USA,2025,Entry Level,94.05,82536.44,1,Finance
+916,Mechanical Engineer,Finance,Canada,2026,Mid Level,85.67,87699.91,3,Software
+917,Marketing Specialist,Finance,Canada,2026,Entry Level,87.66,39827.16,4,Manufacturing
+918,Teacher,Transportation,USA,2023,Mid Level,43.95,123920.91,2,Finance
+919,Financial Analyst,Manufacturing,UK,2025,Mid Level,1.36,103505.78,4,Marketing
+920,Financial Analyst,Retail,UK,2022,Entry Level,23.13,47725.35,3,Marketing
+921,Software Engineer,Healthcare,India,2020,Senior Level,0.85,50805.87,1,Marketing
+922,Marketing Specialist,Transportation,Brazil,2024,Senior Level,38.71,168459.32,1,Education
+923,HR Manager,Manufacturing,Australia,2021,Mid Level,82.26,93217.37,4,Finance
+924,Financial Analyst,Healthcare,UK,2021,Mid Level,44.15,78114,2,Marketing
+925,Marketing Specialist,Retail,Germany,2020,Entry Level,22.11,93481.68,2,Retail
+926,Marketing Specialist,Technology,Brazil,2023,Senior Level,49.22,153391.47,5,Retail
+927,Data Analyst,Retail,India,2022,Entry Level,41.1,33200.89,1,Finance
+928,Customer Support Rep,Energy,Australia,2022,Entry Level,76.93,37158.14,2,Education
+929,Customer Support Rep,Finance,Canada,2024,Mid Level,47.54,56398.7,1,Software
+930,Customer Support Rep,Education,Japan,2023,Mid Level,72.89,44686.31,3,Software
+931,Marketing Specialist,Retail,UK,2024,Mid Level,52.98,35334.58,5,Software
+932,Mechanical Engineer,Education,Singapore,2021,Entry Level,46.85,33376.14,1,Marketing
+933,Mechanical Engineer,Manufacturing,Germany,2025,Mid Level,63.7,37024.89,4,Manufacturing
+934,HR Manager,Education,UK,2025,Mid Level,70.92,48999.61,3,Healthcare
+935,Truck Driver,Energy,Japan,2022,Mid Level,45.33,64533.26,3,Software
+936,Truck Driver,Finance,UK,2025,Senior Level,27.32,52076.83,5,Finance
+937,Data Analyst,Retail,UK,2024,Entry Level,92.26,46616.22,2,Marketing
+938,HR Manager,Finance,India,2020,Mid Level,44.82,60467.13,5,Retail
+939,Software Engineer,Transportation,Germany,2020,Senior Level,89.41,151185.64,5,Finance
+940,HR Manager,Energy,UK,2022,Senior Level,22.76,75364.43,4,Education
+941,Customer Support Rep,Retail,UK,2023,Senior Level,9.9,102319.35,5,Finance
+942,Financial Analyst,Finance,Singapore,2022,Entry Level,3.12,133176.58,5,Healthcare
+943,Software Engineer,Manufacturing,UK,2026,Senior Level,39.76,51242.91,5,Healthcare
+944,Accountant,Energy,UK,2021,Mid Level,16.98,83193.7,5,Marketing
+945,Marketing Specialist,Healthcare,Japan,2022,Mid Level,41.48,85025.8,1,Manufacturing
+946,Customer Support Rep,Energy,Germany,2020,Mid Level,48.61,68335.93,3,Software
+947,Mechanical Engineer,Manufacturing,USA,2025,Senior Level,72.97,47435.03,2,Healthcare
+948,Financial Analyst,Education,Singapore,2023,Entry Level,90.53,86174.13,4,Software
+949,Software Engineer,Technology,Australia,2020,Senior Level,60.44,95010.31,5,Manufacturing
+950,HR Manager,Retail,Brazil,2024,Entry Level,66.34,98671.47,2,Healthcare
+951,Teacher,Transportation,Australia,2024,Entry Level,62.89,59752.04,1,Software
+952,Financial Analyst,Retail,Singapore,2021,Senior Level,60.86,28931.05,5,Manufacturing
+953,Teacher,Education,Australia,2023,Mid Level,28.79,39277.82,4,Manufacturing
+954,Marketing Specialist,Technology,Brazil,2021,Entry Level,25.23,78552.23,4,Retail
+955,Accountant,Manufacturing,India,2024,Senior Level,38.5,135280.14,3,Retail
+956,Customer Support Rep,Healthcare,UK,2021,Entry Level,36.32,42357.2,3,Retail
+957,Marketing Specialist,Finance,Germany,2023,Entry Level,29.85,56072.51,3,Healthcare
+958,Data Analyst,Energy,Japan,2023,Senior Level,93.61,108648.34,2,Retail
+959,Marketing Specialist,Healthcare,Singapore,2020,Senior Level,31.67,68897.27,2,Manufacturing
+960,Software Engineer,Healthcare,UK,2021,Mid Level,37.73,36463.7,5,Manufacturing
+961,Software Engineer,Healthcare,USA,2021,Mid Level,76.08,33878.35,3,Healthcare
+962,Accountant,Transportation,USA,2025,Senior Level,73.34,74175.05,3,Finance
+963,Data Analyst,Manufacturing,Japan,2024,Senior Level,12.58,147283.56,4,Finance
+964,Truck Driver,Healthcare,Germany,2026,Entry Level,54.8,87612.36,4,Education
+965,Marketing Specialist,Healthcare,UK,2024,Mid Level,41.17,53137.67,5,Education
+966,HR Manager,Healthcare,Australia,2023,Senior Level,98.1,111654.77,5,Manufacturing
+967,Marketing Specialist,Finance,Germany,2023,Entry Level,69.6,45652.37,4,Manufacturing
+968,Accountant,Finance,USA,2021,Entry Level,42.24,117709.57,5,Manufacturing
+969,Financial Analyst,Transportation,UK,2024,Mid Level,84.73,141699.2,1,Software
+970,Accountant,Energy,USA,2026,Entry Level,64.44,96529.68,5,Education
+971,Financial Analyst,Finance,India,2023,Mid Level,20.11,55275.39,2,Finance
+972,Marketing Specialist,Technology,Singapore,2024,Entry Level,60.51,75086.47,4,Manufacturing
+973,Mechanical Engineer,Technology,Brazil,2023,Entry Level,69.62,119415.15,2,Manufacturing
+974,Truck Driver,Transportation,Australia,2024,Mid Level,61.94,127641.62,5,Software
+975,Data Analyst,Transportation,UK,2022,Senior Level,78.51,85307.95,4,Retail
+976,Customer Support Rep,Finance,Canada,2024,Entry Level,4.93,104588.92,5,Finance
+977,Teacher,Retail,Germany,2020,Entry Level,15.85,69797.83,1,Marketing
+978,Marketing Specialist,Finance,Brazil,2020,Senior Level,78.99,97860.05,4,Education
+979,Customer Support Rep,Education,Singapore,2022,Senior Level,38.81,94561.54,1,Finance
+980,Accountant,Transportation,Canada,2022,Mid Level,85.25,70392.02,5,Software
+981,Teacher,Education,Canada,2025,Mid Level,8.96,64321.82,4,Marketing
+982,Customer Support Rep,Transportation,Brazil,2026,Senior Level,95.68,100453.69,5,Healthcare
+983,Truck Driver,Healthcare,Australia,2024,Senior Level,24.15,80994.93,5,Marketing
+984,Truck Driver,Retail,Canada,2024,Mid Level,4.8,138011.78,3,Finance
+985,Teacher,Healthcare,India,2025,Mid Level,1.15,40459.02,2,Finance
+986,Truck Driver,Healthcare,India,2021,Entry Level,58.77,137026.59,5,Education
+987,Teacher,Education,Brazil,2024,Mid Level,41.39,57242.5,1,Software
+988,Accountant,Transportation,USA,2026,Mid Level,85.87,84366.3,1,Education
+989,Accountant,Energy,Singapore,2020,Entry Level,14.16,41413.76,1,Education
+990,HR Manager,Manufacturing,Australia,2020,Entry Level,25.27,75395.51,5,Finance
+991,Software Engineer,Transportation,Singapore,2024,Mid Level,17.11,29539.93,5,Marketing
+992,HR Manager,Technology,UK,2025,Mid Level,24.79,111996.88,4,Retail
+993,Truck Driver,Technology,Germany,2026,Senior Level,18.12,122263.08,5,Software
+994,HR Manager,Manufacturing,USA,2026,Senior Level,31.61,142859.38,5,Healthcare
+995,Financial Analyst,Manufacturing,UK,2025,Entry Level,59.62,153607.07,1,Manufacturing
+996,Mechanical Engineer,Manufacturing,USA,2021,Senior Level,25.22,118989.91,1,Finance
+997,HR Manager,Transportation,Australia,2025,Mid Level,42.64,102343.58,4,Education
+998,Teacher,Manufacturing,Brazil,2020,Entry Level,1.8,137036.82,1,Education
